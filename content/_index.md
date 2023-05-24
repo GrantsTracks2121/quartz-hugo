@@ -2,7 +2,9 @@
 title: 🪴 Quartz 3.3
 enableToc: false
 ---
-
+GSW edited this line.
+Here's a link to another page: [[notes/editing]]
+Here's a link to a page that I made: [[notes/Grant's New Page]]
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast natural-language [[notes/search]]
