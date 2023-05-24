@@ -47,7 +47,7 @@ The [Buena Vista Bridge ](https://google.ca) is *very* big and and well made.
 </figcaption>
 
 ![](notes/images/IMG_0720.jpg)
-<div id="captionbox"> <span class="alignleft">This would be the caption</span> <span class="alignright">📸 <small>Photo by Grant Wilson</small></span> </div>
+<div class="captionbox"> <span class="alignleft">This would be the caption</span> <span class="alignright">📸 <small>Photo by Grant Wilson</small></span> </div>
 <div style="clear: both;"></div>
 
 
