@@ -46,9 +46,12 @@ The [Buena Vista Bridge ](https://google.ca) is *very* big and and well made.
 
 </figcaption>
 
-![](notes/images/IMG_0720.jpg)
+![This would be the alt text](notes/images/IMG_0720.jpg)
 <p class="captionbox"> <span class="alignleft">This would be the caption. Now let's try a really, really, really long caption that will spill over and see what it does to the right aligned text. It probably screws it up.</span> <span class="alignright">📸 <small>Photo by Grant Wilson</small></span> </p>
 
+Here's the same example and the attribution is in with the caption
+![This would be the alt text](notes/images/IMG_0720.jpg)
+<p class="captionbox"> <span class="alignleft">This would be the caption. Now let's try a really, really, really long caption that will spill over and see what it does to the right aligned text. It probably screws it up.📸 <small>Photo by Grant Wilson</small></span> 
 
 ### YouTube Embedding
 My notes say that this Hugo shortcode should render the youtube video
