@@ -15,10 +15,9 @@ This syntax is supposed to work for linking an image to something else:
 [![This is the alt text](notes/images/Img_9606_2022-Oct-30.jpg)](notes/hosting.md)
 ```
 
-Let's try that out
+Let's try that out - it WORKS - but 
 
-[![Buena Vista Bridge](notes/images/IMG_0709.jpeg)](https://google.ca)
-<small>*Buena Vista Bridge* | | Photo by Grant Wilson</small>
+[![Buena Vista Bridge](notes/images/IMG_0709.jpeg)](https://google.ca)<small>*Buena Vista Bridge* | | Photo by Grant Wilson</small>
 
 
 ### YouTube Embedding
