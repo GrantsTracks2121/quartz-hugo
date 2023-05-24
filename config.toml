@@ -1,4 +1,4 @@
-baseURL = "https://quartz.jzhao.xyz/"
+baseURL = "https://github.com/GrantsTracks2121/quartz-hugo"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
@@ -6,7 +6,7 @@ ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
 ]
-summaryLength = 20
+summaryLength = 30
 paginate = 10
 enableGitInfo = true
 
