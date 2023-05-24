@@ -47,7 +47,8 @@ The [Buena Vista Bridge ](https://google.ca) is *very* big and and well made.
 </figcaption>
 
 ![](notes/images/IMG_0720.jpg)
-<div id="textbox"> <p class="alignleft">This would the caption</p> <p class="alignright">📸 <small>Photo by Grant Wilson</small></p> </div>
+<div id="captionbox"> <p class="alignleft">This would the caption</p> <p class="alignright">📸 <small>Photo by Grant Wilson</small></p> </div>
+<div style="clear: both;"></div>
 
 ### YouTube Embedding
 My notes say that this Hugo shortcode should render the youtube video

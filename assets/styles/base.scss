@@ -149,6 +149,11 @@ p > img + em {
 }
 
 // These two classes are an experiment to get text on the same line aligned, left and right
+.captionbox {
+  display: block;
+  transform: translateY(-1em);
+}
+
 .alignleft {
 	float: left;
 }
