@@ -18,6 +18,7 @@ This syntax is supposed to work for linking an image to something else:
 Let's try that out - it WORKS - but the linking part seems to spill over and push the caption down.
 
 [![Buena Vista Bridge](notes/images/IMG_0709.jpeg)](https://google.ca)<small>*Buena Vista Bridge* | | Photo by Grant Wilson</small>
+
 ⟰ The above does work, but it's a little wonky.
 
 Let's try again using the figcaption HTML tag. I haven't had any luck in the past with it, but let's try again from the info [here](https://thesynack.com/posts/markdown-captions/).
