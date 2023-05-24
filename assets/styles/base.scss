@@ -148,6 +148,11 @@ p > img + em {
   transform: translateY(-1em);
 }
 
+small {
+display: block;
+text-align: right !important;
+
+}
 sup {
   line-height: 0
 }

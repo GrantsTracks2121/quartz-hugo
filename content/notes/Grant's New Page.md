@@ -19,7 +19,7 @@ Let's try that out - it WORKS - but the linking part seems to spill over and pus
 This is using the simple "em" tag to do a caption. There's already css to deal with this in Quartz.
 
 [![Buena Vista Bridge](notes/images/IMG_0709.jpeg)](https://google.ca)
-*Buena Vista Bridge*  📸 <small>Photo by Grant Wilson</small>
+*Buena Vista Bridge* // 📸 <small>Photo by Grant Wilson</small>
 
 Let's try again using the figcaption HTML tag. I haven't had any luck in the past with it, but let's try again from the info [here](https://thesynack.com/posts/markdown-captions/).
 
