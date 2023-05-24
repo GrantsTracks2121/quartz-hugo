@@ -21,6 +21,10 @@ This is using the simple "em" tag to do a caption. There's already css to deal w
 [![Buena Vista Bridge](notes/images/IMG_0709.jpeg)](https://google.ca)
 *Buena Vista Bridge* // 📸 <small>Photo by Grant Wilson</small>
 
+
+### Figcaption 
+By itself - it's meh. But perhaps I can css it.
+
 Let's try again using the figcaption HTML tag. I haven't had any luck in the past with it, but let's try again from the info [here](https://thesynack.com/posts/markdown-captions/).
 
 The syntax is:
@@ -41,6 +45,9 @@ The [ABC Train](https://example.com) is *very* big and red.
 The [Buena Vista Bridge ](https://google.ca) is *very* big and and well made.
 
 </figcaption>
+
+![](notes/images/IMG_0720.jpg)
+<div id="textbox"> <p class="alignleft">This would the caption</p> <p class="alignright">📸 <small>Photo by Grant Wilson</small></p> </div>
 
 ### YouTube Embedding
 My notes say that this Hugo shortcode should render the youtube video
