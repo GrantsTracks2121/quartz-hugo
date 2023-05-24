@@ -15,10 +15,31 @@ This syntax is supposed to work for linking an image to something else:
 [![This is the alt text](notes/images/Img_9606_2022-Oct-30.jpg)](notes/hosting.md)
 ```
 
-Let's try that out - it WORKS - but 
+Let's try that out - it WORKS - but the linking part seems to spill over and push the caption down.
 
 [![Buena Vista Bridge](notes/images/IMG_0709.jpeg)](https://google.ca)<small>*Buena Vista Bridge* | | Photo by Grant Wilson</small>
+⟰ The above does work, but it's a little wonky.
 
+Let's try again using the figcaption HTML tag. I haven't had any luck in the past with it, but let's try again from the info [here](https://thesynack.com/posts/markdown-captions/).
+
+The syntax is:
+
+```
+![Big Red Train](/path/to/image)
+
+<figcaption>
+
+The [ABC Train](https://example.com) is *very* big and red.
+
+</figcaption>
+```
+
+![Buena Vista Bridge](notes/images/IMG_0709.jpeg)
+<figcaption>
+
+The [Buena Vista Bridge ](https://google.ca) is *very* big and and well made.
+
+</figcaption>
 
 ### YouTube Embedding
 My notes say that this Hugo shortcode should render the youtube video
