@@ -1,4 +1,4 @@
-baseURL = "https://github.com/GrantsTracks2121/quartz-hugo"
+baseURL = "https://grantstracks2121.github.io/quartz-hugo/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
