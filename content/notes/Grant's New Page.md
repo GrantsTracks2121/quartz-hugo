@@ -49,7 +49,8 @@ The [Buena Vista Bridge ](https://google.ca) is *very* big and and well made.
 ![This would be the alt text](notes/images/IMG_0720.jpg)
 <p class="captionbox"> <span class="alignleft">This would be the caption. Now let's try a really, really, really long caption that will spill over and see what it does to the right aligned text. It probably screws it up.</span> <span class="alignright">📸 <small>Photo by Grant Wilson</small></span> </p>
 
-Here's the same example and the attribution is in with the caption
+Here's the same example and the attribution is in with the caption.
+***This worked very well! I'm going to use this, an hope it helps in the future.***
 ![This would be the alt text](notes/images/IMG_0720.jpg)
 <p class="captionbox"> <span class="alignleft">This would be the caption. Now let's try a really, really, really long caption that will spill over and see what it does to the right aligned text. It probably screws it up.📸 <small>Photo by Grant Wilson</small></span> 
 
