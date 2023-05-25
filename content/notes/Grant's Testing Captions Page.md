@@ -28,7 +28,7 @@ Pharetra sed. Quisque et turpis tellus. Integer arcu nulla, venenatis id elit no
 
 
 
-![This is the alt text for the image](notes/images/IMG_0720.jpg "This is a cool rock I saw during yesterday's stroll near Buena Vista Park in Edmonton")*Doing a timelapse video in the Ministik* // 📸 <small>Photo by: <a href="https://commons.wikimedia.org/wiki/File:Shikoku-Pilgerweg_Karte.png">Lencer</a>, <a href="http://www.gnu.org/copyleft/fdl.html">GFDL</a>, via Wikimedia Commons</small>
+![This is the alt text for the image](notes/images/IMG_0720.jpg "This is a cool rock I saw during yesterday's stroll near Buena Vista Park in Edmonton")*Doing a timelapse video in the Ministik* // 📸 *<small>Photo by: <a href="https://commons.wikimedia.org/wiki/File:Shikoku-Pilgerweg_Karte.png">Lencer</a>, <a href="http://www.gnu.org/copyleft/fdl.html">GFDL</a>, via Wikimedia Commons</small>*
 
 
 ### Making an image a link to something else
@@ -68,13 +68,6 @@ The [ABC Train](https://example.com) is *very* big and red.
 The [Buena Vista Bridge ](https://google.ca) is *very* big and and well made.
 
 </figcaption>
-
-
-
-
-Here's the same example and the attribution is in with the caption.
-***This worked very well! I'm going to use this, an hope it helps in the future.***
-![This would be the alt text](notes/images/IMG_0720.jpg)
 
 
 ### YouTube Embedding
