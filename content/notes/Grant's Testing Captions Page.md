@@ -10,6 +10,7 @@ tags:
 I put it in an enclose p tag and use css to float the two sections (caption and attribute) to the left and right respectively.
 ![This would be the alt text](notes/images/IMG_0720.jpg)
 <p class="captionbox"> <span class="alignleft">Here's a big rock I saw near Buena Vista Park. </span> <span class="alignright">📸 <small>Photo by Grant Wilson</small></span> </p><p style="clear: both;"></p>
+
 ## Here's an attempt at sizing the image with css
 
 ### Right 50
@@ -76,3 +77,6 @@ My notes say that this Hugo shortcode should render the youtube video
 
 Here goes:
 {{< youtube xbILy-bCN4M >}}
+
+> [! Question ] What is going on?
+> This is the question that we all ask.
