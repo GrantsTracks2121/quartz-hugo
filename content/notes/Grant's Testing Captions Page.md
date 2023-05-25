@@ -10,6 +10,16 @@ tags:
 I put it in an enclose p tag and use css to float the two sections (caption and attribute) to the left and right respectively.
 ![This would be the alt text](notes/images/IMG_0720.jpg)
 <p class="captionbox"> <span class="alignleft">Here's a big rock I saw near Buena Vista Park. </span> <span class="alignright">📸 <small>Photo by Grant Wilson</small></span> </p><p style="clear: both;"></p>
+## Here's an attempt at sizing the image with css
+
+### Right 50
+
+![This should be the Alt Text](notes/images/IMG_0709.jpeg#right50 "This should be the title text")<p class="captionbox"> <span class="alignleft">This is using "Right 50" to resize the image</span> <span class="alignright">📸 <small>Photo by Grant Wilson</small></span> </p><p style="clear: both;"></p>
+
+Nullam tristique diam purus, at vestibulum nisi pharetra sed. Quisque et turpis tellus. Integer arcu nulla, venenatis id elit non, ornare euismod tellus. Quisque non est felis. Curabitur ac interdum massa. Vivamus condimentum arcu eu leo hendrerit cursus. Ut accumsan tincidunt erat. Praesent non posuere nunc. Donec eget lorem vitae mi aliquam convallis. Phasellus nisi purus, tristique in vestibulum non, tempus sit amet metus. Ut ante ipsum, lacinia nec erat eu, consequat sodales erat. Phasellus eget rutrum enim. Nunc pretium nunc ac ante laoreet scelerisque. Donec ac quam vitae sapien rutrum convallis. Morbi consectetur porttitor dolor, a faucibus metus placerat vel.
+
+
+
 ![This is the alt text for the image](notes/images/IMG_0720.jpg "This is a cool rock I saw during yesterday's stroll near Buena Vista Park in Edmonton")*Doing a timelapse video in the Ministik || <small>Photo by: <a href="https://commons.wikimedia.org/wiki/File:Shikoku-Pilgerweg_Karte.png">Lencer</a>, <a href="http://www.gnu.org/copyleft/fdl.html">GFDL</a>, via Wikimedia Commons</small>*
 
 
