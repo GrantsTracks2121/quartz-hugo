@@ -15,19 +15,15 @@ I put it in an enclose p tag and use css to float the two sections (caption and 
 
 ### Right 50
 The code works, but of course my solution for captions doesn't - it's based on simply appearing under an image that is 100% wide.
-
-
 ![This should be the Alt Text](notes/images/IMG_0709.jpeg#right50 "This should be the title text")
 Nullam tristique diam purus, at vestibulum nisi pharetra sed. Quisque et turpis tellus. Integer arcu nulla, venenatis id elit non, ornare euismod tellus. Quisque non est felis. Curabitur ac interdum massa. Vivamus condimentum arcu eu leo hendrerit cursus. Ut accumsan tincidunt erat. Praesent non posuere nunc. Donec eget lorem vitae mi aliquam convallis. Phasellus nisi purus, tristique in vestibulum non, tempus sit amet metus. Ut ante ipsum, lacinia nec erat eu, consequat sodales erat. Phasellus eget rutrum enim. Nunc pretium nunc ac ante laoreet scelerisque. Donec ac quam vitae sapien rutrum convallis. Morbi consectetur porttitor dolor, a faucibus metus placerat vel.
 
-<div style="width:50%; height:50%">
-![](notes/images/IMG_0709.jpeg)
-</div>
-<div style="width:50%; height:50%">
- *So this one is a "right50" for float right and 50% size. And that works like charm!!***Nullam tristique diam purus, at vestibulum nisi pharetra sed. Quisque et turpis tellus. Integer arcu nulla, venenatis id elit non, ornare euismod tellus. Quisque non est felis. Curabitur ac interdum massa. Vivamus condimentum arcu eu leo hendrerit cursus. Ut accumsan tincidunt erat. Praesent non posuere nunc. Donec eget lorem vitae mi aliquam convallis. Phasellus nisi purus, tristique in vestibulum non, tempus sit amet metus. Ut ante ipsum, lacinia nec erat eu, consequat sodales erat. Phasellus eget rutrum enim. Nunc pretium nunc ac ante laoreet scelerisque. Donec ac quam vitae sapien rutrum convallis. Morbi consectetur porttitor dolor, a faucibus metus placerat vel.
-</div>
 
-![This should be the Alt Text](notes/images/IMG_0709.jpeg#left50 "This should be the title text")Nullam tristique diam purus, at vestibulum nisi pharetra sed. Quisque et turpis tellus. Integer arcu nulla, venenatis id elit non, ornare euismod tellus. Quisque non est felis. Curabitur ac interdum massa. Vivamus condimentum arcu eu leo hendrerit cursus. Ut accumsan tincidunt erat. Praesent non posuere nunc. Donec eget lorem vitae mi aliquam convallis. Phasellus nisi purus, tristique in vestibulum non, tempus sit amet metus. Ut ante ipsum, lacinia nec erat eu, consequat sodales erat. Phasellus eget rutrum enim. Nunc pretium nunc ac ante laoreet scelerisque. Donec ac quam vitae sapien rutrum convallis. Morbi consectetur porttitor dolor, a faucibus metus placerat vel.
+![This should be the Alt Text](notes/images/IMG_0709.jpeg#left50 "This should be the title text")This image is LEFT justified and the text should flow around it. 
+
+This is a new paragraph and here's some more text.
+
+Pharetra sed. Quisque et turpis tellus. Integer arcu nulla, venenatis id elit non, ornare euismod tellus. Quisque non est felis. Curabitur ac interdum massa. Vivamus condimentum arcu eu leo hendrerit cursus. Ut accumsan tincidunt erat. Praesent non posuere nunc. Donec eget lorem vitae mi aliquam convallis. Phasellus nisi purus, tristique in vestibulum non, tempus sit amet metus. Ut ante ipsum, lacinia nec erat eu, consequat sodales erat. Phasellus eget rutrum enim. Nunc pretium nunc ac ante laoreet scelerisque. Donec ac quam vitae sapien rutrum convallis. Morbi consectetur porttitor dolor, a faucibus metus placerat vel.
 
 
 
