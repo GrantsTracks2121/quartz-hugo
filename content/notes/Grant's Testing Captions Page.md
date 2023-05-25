@@ -46,8 +46,12 @@ The [Buena Vista Bridge ](https://google.ca) is *very* big and and well made.
 
 </figcaption>
 
+### This is the one that works
+I put it in an enclose p tag and use css to float the two sections (caption and attribute) to the left and right respectively.
 ![This would be the alt text](notes/images/IMG_0720.jpg)
-<p class="captionbox"> <span class="alignleft">Here's at big rock I saw near Buena Vista Park. </span> <span class="alignright">📸 <small>Photo by Grant Wilson</small></span> </p><p style="clear: both;"></p>
+<p class="captionbox"> <span class="alignleft">Here's a big rock I saw near Buena Vista Park. </span> <span class="alignright">📸 <small>Photo by Grant Wilson</small></span> </p><p style="clear: both;"></p>
+<p class="captionbox"> <span class="alignleft">This is the caption.</span> <span class="alignright">📸 <small>Photo by Grant Wilson</small></span> </p>
+
 
 Here's the same example and the attribution is in with the caption.
 ***This worked very well! I'm going to use this, an hope it helps in the future.***
