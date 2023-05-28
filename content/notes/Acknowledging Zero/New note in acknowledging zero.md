@@ -8,5 +8,5 @@ tags:
 
 This is a new note - and here's picture:
 
-![](notes/images/IMG_0786.jpeg#right50)*This is the caption which I doubt is under the picture*
+![A pier at Chickakoo Lake](notes/images/IMG_0786.jpeg#right50)<em style="right50">this is the caption for the 50% image</em>
 
