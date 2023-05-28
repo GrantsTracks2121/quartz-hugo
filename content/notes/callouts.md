@@ -61,3 +61,5 @@ See [documentation on supported types and syntax here](https://help.obsidian.md/
 > [!quote] Quote
 >
 > Aliases: quote, cite
+
+>This is a markdown standard quotation.

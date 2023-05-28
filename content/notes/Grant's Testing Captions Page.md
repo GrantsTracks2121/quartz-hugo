@@ -78,5 +78,13 @@ My notes say that this Hugo shortcode should render the youtube video
 Here goes:
 {{< youtube xbILy-bCN4M >}}
 
+
+
 > [! Question ] What is going on?
 > This is the question that we all ask.
+
+
+Someone's figure code which I assume uses the title as the caption
+```
+<figure> <figcaption><p>{{ with .Title }} {{ . | markdownify }} {{ end }} </p></figcaption> <a href="{{ .Destination | safeURL }}" target="_blank"> <img src="{{ replace .Destination ".jpg" ".jpg.small" | safeURL }}" alt="{{ .Text }}" {{ with .Title }}title="{{ . }}"{{ end }}/> </a> </figure>
+```
