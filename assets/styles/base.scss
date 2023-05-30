@@ -139,18 +139,27 @@ td, th {
 img {
   /*max-width: 100%; */ /*original */
   display: block;
-  width: 80%;
+  max-width: 95%;
   border-radius: 10px; /*This rounds the corners of the image */
   /* margin: 1em 0;*/ /*original */
   margin-left: auto;
   margin-right: auto;
 
 }
+/* this successfully centers the image
+img {
+  display: block;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+} */
+
 
 // translateY with a minus value moves the text UP
 p > img + em {
   display: block;
   *transform: translateY(-1em);
+  max-width: 95%;
 }
 
 // These two classes are an experiment to get text on the same line aligned, left and right
