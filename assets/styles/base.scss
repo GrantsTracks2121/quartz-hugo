@@ -156,6 +156,13 @@ p > img + em {
   transform: translateY(-1em);
 
 }
+
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+    max-width: 50%;
+}
+
 /* 
 img {
   display: block;
