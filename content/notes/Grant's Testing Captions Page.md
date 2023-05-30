@@ -88,6 +88,17 @@ By itself, the above code doesn't render what I want - but the idea was to combi
 *This is a smaller picture - 800 px vs the 1500 I've been using.*
 
 
+### Yet another solution for centering image and caption together
+
+
+<div id="container">
+![This is the alt text](notes/images/IMG_0768.jpeg)
+    *This is an image*
+</div>
+
+
+
+
 ## Here's an attempt at sizing the image with css
 
 ### Right 50
