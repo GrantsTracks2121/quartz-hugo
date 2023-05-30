@@ -139,7 +139,7 @@ td, th {
 img {
   /* max-width: 100%; */
   display: block; /* this is needed to give the image a "block" in which to center itself */
-  max-width: 50%;
+  max-width: 85%;
   float: none;
   margin-left: auto;
   margin-right: auto;
@@ -151,9 +151,9 @@ img {
 // translateY with a minus value moves the text UP
 p > img + em {
   display: block;
-  max-width: 75%;
+  max-width: 85%;
   margin: auto;
-  transform: translateY(-1em);
+/*   transform: translateY(-1em);  */
 
 }
 /* 
