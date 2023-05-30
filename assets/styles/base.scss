@@ -146,7 +146,7 @@ img {
 // translateY with a minus value moves the text UP
 p > img + em {
   display: block;
-  transform: translateY(-1em);
+  /*transform: translateY(-1em);*/
   margin: auto; /*added to see if caption will follow image to center */
 }
 
