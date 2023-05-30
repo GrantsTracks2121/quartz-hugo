@@ -78,10 +78,10 @@ By itself, the above code doesn't render what I want - but the idea was to combi
 
 
 ## Here's an 800 px image - look any different?
-Trying to center this one:
+Trying to center this one. ***This one centered!!***
 
 ![Just hangin around in the bush](notes/images/IMG_0782.jpeg#center)
-
+*This is the caption - let's see what happens with it // 📸 Photo by: Grant Wilson*
 
 ![Just hangin around in the bush](notes/images/IMG_0782.jpeg)
 *The cache I found after having to bushwhack a bit from the trail "above" it.* 
