@@ -1,15 +1,73 @@
 ---
 title: "Grant's Testing Captions Page"
 tags: 
-- 🌱 Seedling
-- 🧹 Needs Editing
+- 🌱_Seedling
+- 🧹_Needs_Editing
 ---
 ## Grant's New Page
 
-### This is the one that works
+### This is the One That Works
 I put it in an enclose p tag and use css to float the two sections (caption and attribute) to the left and right respectively.
 ![This would be the alt text](notes/images/IMG_0720.jpg)
 <p class="captionbox"> <span class="alignleft">Here's a big rock I saw near Buena Vista Park. </span> <span class="alignright">📸 <small>Photo by Grant Wilson</small></span> </p><p style="clear: both;"></p>
+I'm obssessing on captions under images, I know, but here's some code that I could combine with what I have to size a caption with the size of the image. This provides the "container" around the image that I know I need.
+
+```
+<style type="text/css">
+#wrap {
+    text-align:center;/*center the .caption div*/
+    background:#EEF;
+}
+p {margin:0;}
+
+.caption {
+    display:inline-block; /*shrinkwrap the div to fit the image*/
+}
+p.imgwrap {
+    padding:10px 0;
+}
+.caption span {
+    display:block;
+    margin:0 12%; /*this makes up for the missing 24% of the img width - GSW- what?!? I don't get this*/
+    padding: 5px 0;
+    font-family: var(--font-body);
+    text-align:left;
+    background:oldlace;
+    border-radius: 10px;
+}
+.caption img {
+    vertical-align:bottom;
+    width:50%;
+}
+p.nav a {
+    margin:0 100px 0 0;
+}
+p.nav a + a {margin:0}
+</style>
+
+</head>
+<body>
+
+<div id="wrap">
+    <div class="caption">
+        <p class="imgwrap">
+            <img src="https://grantstracks.com/wp-content/uploads/DSCF8654-1-Bluejay-Charron.jpg" alt="">
+            <span>Misty woods near Wilton // photo: Fiona Bullivant</span>
+        </p>
+    </div>
+</div>
+```
+
+<div id="wrap">
+    <div class="caption">
+        <p class="imgwrap">
+            <img src="https://grantstracks.com/wp-content/uploads/DSCF8654-1-Bluejay-Charron.jpg" alt="">
+          <span><em>Misty woods near Wilton // 📸 Photo: Fiona Bullivant</em></span>
+        </p>
+    </div>
+</div>
+
+
 
 ## Here's an attempt at sizing the image with css
 
@@ -45,7 +103,7 @@ This is using the simple "em" tag to do a caption. There's already css to deal w
 *Buena Vista Bridge* // 📸 <small>Photo by Grant Wilson</small>
 
 
-### Figcaption 
+### Fig Caption 
 By itself - it's meh. But perhaps I can css it.
 
 Let's try again using the figcaption HTML tag. I haven't had any luck in the past with it, but let's try again from the info [here](https://thesynack.com/posts/markdown-captions/).
@@ -80,11 +138,11 @@ Here goes:
 
 
 
-> [! Question ] What is going on?
+> [! Question ] What Is Going On?
 > This is the question that we all ask.
 
 
-Someone's figure code which I assume uses the title as the caption
+Someone's Figure Code Which I Assume Uses the Title as the Caption
 ```
 <figure> <figcaption><p>{{ with .Title }} {{ . | markdownify }} {{ end }} </p></figcaption> <a href="{{ .Destination | safeURL }}" target="_blank"> <img src="{{ replace .Destination ".jpg" ".jpg.small" | safeURL }}" alt="{{ .Text }}" {{ with .Title }}title="{{ . }}"{{ end }}/> </a> </figure>
 ```

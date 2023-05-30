@@ -30,6 +30,10 @@ See [documentation on supported types and syntax here](https://help.obsidian.md/
 >
 > Aliases: info, todo
 
+> [!todo] Info 
+>
+> Aliases: info, todo
+
 > [!tip] Hint 
 >
 > Aliases: tip, hint, important
