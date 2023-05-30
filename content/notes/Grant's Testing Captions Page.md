@@ -32,7 +32,7 @@ Trying to center this one. ***This one centered!!*** It uses the ``#center`` anc
 ## And here's another landscape version:
 
 ![](notes/images/IMG_0768.jpeg#center)
-*This is a smaller picture - 800 px vs the 1500 I've been using.*
+*This is a smaller picture - 800 px vs the 1500 I've been using.* // 📸 Photo: Grant Wilson
 
 
 ### Yet another solution for centering image and caption together

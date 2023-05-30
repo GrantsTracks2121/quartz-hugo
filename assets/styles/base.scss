@@ -155,9 +155,9 @@ p > img + em {
 // translateY with a minus value moves the text UP
 /*   transform: translateY(-1em);  */
 
-p > img[src*='#center'] + em {
+p > img[src*='#portrait'] + em {
   display: block;
-  max-width: 75%;
+  max-width: 50%;
   float: none;
   margin-left: auto;
   margin-right: auto;
