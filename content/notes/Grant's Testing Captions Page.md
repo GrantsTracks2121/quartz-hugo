@@ -11,7 +11,9 @@ tags:
 I put it in an enclose p tag and use css to float the two sections (caption and attribute) to the left and right respectively.
 ![This would be the alt text](notes/images/IMG_0720.jpg)
 <p class="captionbox"> <span class="alignleft">Here's a big rock I saw near Buena Vista Park. </span> <span class="alignright">📸 <small>Photo by Grant Wilson</small></span> </p><p style="clear: both;"></p>
-I'm obssessing on captions under images, I know, but here's some code that I could combine with what I have to size a caption with the size of the image. This provides the "container" around the image that I know I need.
+
+
+I'm obsessing on captions under images, I know, but here's some code that I could combine with what I have to size a caption with the size of the image. This provides the "container" around the image that I know I need.
 
 ```
 <style type="text/css">
