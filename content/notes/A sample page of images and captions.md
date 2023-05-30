@@ -22,7 +22,7 @@ This is some more text that it looks like I need in order to separate the images
 Apparently there needs to be some text between images to separate them. I'd say there usually would be, so I don't think it's something to worry too much about it. Well, on second thought, maybe I do. 
 <br/><br/>
 
-This is right below two break tags. Under here is one break tag. These break tags are present in the HTML, but they're NOT doing much to break things up.
+This is right below two break tags. Under here is one break tag. These break tags are present in the HTML, but they're NOT doing much to break things up. EDIT: I find out that of course you need TWO break tags to create a new line - because they're simply line breaks, not paragraph breaks.  But, really do I have to do that all the time?!?
 <br/><br/>
 
 
