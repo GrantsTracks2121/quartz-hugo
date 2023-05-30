@@ -19,7 +19,13 @@ This is some more text that it looks like I need in order to separate the images
 
 ![](notes/images/IMG_0763.jpg)*Again, a lake shot, taken as I walked by it on the pathway.*
 
-Apparently there needs to be some text between images to separate them. I'd say there usually would be, so I don't think it's something to worry too much about.
+Apparently there needs to be some text between images to separate them. I'd say there usually would be, so I don't think it's something to worry too much about it. Well, on second thought, maybe I do. 
+\
+\
+This is right below the second of two slashes. These slashes are supposed to be transformed into ``<br/>`` tags.
+\
+\
+
 
 ![](notes/images/Goat%20Track.jpg#right50)*One of the many "Goat Tracks" (as they're named on the map) in the area.*There's a bunch of text that is going to flow beside this one. And when the image is finished displaying, the text will continue on, on it's merry way. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempus est eu magna lacinia, ut consectetur diam ultrices. Mauris vulputate ex quis dui euismod, id condimentum mauris fringilla. 
 
