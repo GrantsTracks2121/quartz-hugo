@@ -138,7 +138,8 @@ td, th {
 
 img {
   /*max-width: 100%; */ /*original */
-  width: 50%;
+  display: block;
+  width: 80%;
   border-radius: 10px; /*This rounds the corners of the image */
   /* margin: 1em 0;*/ /*original */
   margin-left: auto;
@@ -150,7 +151,6 @@ img {
 p > img + em {
   display: block;
   *transform: translateY(-1em);
-
 }
 
 // These two classes are an experiment to get text on the same line aligned, left and right
