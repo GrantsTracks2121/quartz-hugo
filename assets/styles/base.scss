@@ -156,9 +156,9 @@ p > img + em {
 /*   transform: translateY(-1em);  */
 
 /* For images in portrait orientation  */
-.portraitcaption + em {
+p > img[src*='#portraitcaption'] + em {
   display: block;
-  max-width: 60%;
+  max-width: 40%;
   float: none;
   margin-left: auto;
   margin-right: auto;
