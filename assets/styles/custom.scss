@@ -78,7 +78,7 @@ img[src$='#left50']{
 
 /*testing css to wrap an image for the sake of captions displaying correctly under resized images    */
 #wrap {
-    text-align:center;/*center the .caption div*/
+    text-align:center; /*center the .caption div*/
     background:#EEF;
 }
 p {margin:0;}
@@ -107,7 +107,7 @@ p.nav a {
 }
 p.nav a + a {margin:0}
 
-
+/* This didn't work: */
 p > img[src$='#center'] + em {
     display:block;
     margin: auto;
