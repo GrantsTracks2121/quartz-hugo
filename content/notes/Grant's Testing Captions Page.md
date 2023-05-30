@@ -77,7 +77,7 @@ By itself, the above code doesn't render what I want - but the idea was to combi
 
 ## Here's an 800 px image - look any different?
 
-![](notes/images/IMG_0782.jpeg)
+![Just hangin around in the bush](notes/images/IMG_0782.jpeg)
 *The cache I found after having to bushwhack a bit from the trail "above" it.* 
 
 

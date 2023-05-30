@@ -138,6 +138,7 @@ td, th {
 /* the original img definition */
 img {
   /* max-width: 100%; */
+  display:block /* this is needed to give the image a "block" in which to center itself */
   margin: auto; /* this is supposed to center the image */
   max-width: 95%;
   border-radius: 10px;
