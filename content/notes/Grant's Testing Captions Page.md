@@ -24,10 +24,10 @@ Trying to center this one. ***This one centered!!*** It uses the ``#center`` anc
 ![Just hangin around in the bush](notes/images/IMG_0782.jpeg#center)
 *This is the caption - let's see what happens with it // 📸 Photo by: Grant Wilson*
 
-This one has the portrait span tag around the caption:
+***This one has  portrait id attached to the image code.***
 
 ![Just hangin around in the bush](notes/images/IMG_0782.jpeg#portraitcaption)
-*The cache I found after having to bushwhack a bit from the trail "above" it.*
+<span>*The cache I found after having to bushwhack a bit from the trail "above" it.*</span>
 
 
 
