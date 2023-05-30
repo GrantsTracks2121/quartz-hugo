@@ -90,16 +90,8 @@ By itself, the above code doesn't render what I want - but the idea was to combi
 
 ### Yet another solution for centering image and caption together
 
-
-
-
 ![This is the alt text](notes/images/IMG_0768.jpeg#container)
-    *This is an image*
-    
-
-
-
-
+*This is an image*
 
 ## Here's an attempt at sizing the image with css
 
