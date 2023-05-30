@@ -3,7 +3,9 @@ title: "Grant's Testing Captions Page"
 tags: 
 - 🌱_Seedling
 - 🧹_Needs_Editing
-- 🧹_Needs_Editing/Second_Pass
+Type:
+- " core idea"
+- " tangent"
 ---
 ## Grant's New Page
 
