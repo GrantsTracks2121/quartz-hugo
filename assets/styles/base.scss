@@ -138,6 +138,7 @@ td, th {
 /* the original img definition */
 img {
   /* max-width: 100%; */
+  margin: auto; /* this is supposed to center the image */
   max-width: 95%;
   border-radius: 3px;
   margin: 1em 0;
@@ -147,7 +148,7 @@ img {
 p > img + em {
   display: block;
   margin: auto;
-  /* transform: translateY(-1em); */
+  transform: translateY(-1em);
   max-width: 95%;
 }
 /* 
