@@ -9,6 +9,11 @@ Here's a link to a page that I made: [[notes/Grant's Testing Captions Page]]
 
 [Testing out footnotes](notes/Testing%20out%20footnotes.md)
 
+
+
+
+
+
 [New note in acknowledging zero](notes/Acknowledging%20Zero/New%20note%20in%20acknowledging%20zero.md)
 
 [callouts](notes/callouts.md)
