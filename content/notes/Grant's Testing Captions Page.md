@@ -24,7 +24,7 @@ p {margin:0;}
     display:inline-block; /*shrinkwrap the div to fit the image*/
 }
 p.imgwrap {
-    padding:10px 0;
+    padding:10px 0; /*The padding around the image? - If so, decrease to get the caption closer to the image.*/
 }
 .caption span {
     display:block;

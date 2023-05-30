@@ -66,3 +66,33 @@ img[src$='#left50']{
     position: relative;
 }
 
+/*testing css to wrap an image for the sake of captions displaying correctly under resized images    */
+#wrap {
+    text-align:center;/*center the .caption div*/
+    background:#EEF;
+}
+p {margin:0;}
+
+.caption {
+    display:inline-block; /*shrinkwrap the div to fit the image*/
+}
+p.imgwrap {
+    padding:10px 0; /*The padding around the image? - If so, decrease to get the caption closer to the image.*/
+}
+.caption span {
+    display:block;
+    margin:0 12%; /*this makes up for the missing 24% of the img width - GSW- what?!? I don't get this*/
+    padding: 5px 0;
+    font-family: var(--font-body);
+    text-align:left;
+    background:oldlace;
+    border-radius: 10px;
+}
+.caption img {
+    vertical-align:bottom;
+    width:50%;
+}
+p.nav a {
+    margin:0 100px 0 0;
+}
+p.nav a + a {margin:0}
