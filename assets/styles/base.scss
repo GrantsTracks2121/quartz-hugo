@@ -148,24 +148,20 @@ img {
 
 p > img + em {
   display: block;
-  max-width: 75%;
+  max-width: 85%;
   float: none;
   margin-left: auto;
   margin-right: auto;
 // translateY with a minus value moves the text UP
 /*   transform: translateY(-1em);  */
 
-p > img[src*='#portrait'] + em {
+/* For images in portrait orientation  */
+.portrait {
   display: block;
-  max-width: 50%;
+  max-width: 60%;
   float: none;
   margin-left: auto;
   margin-right: auto;
-// translateY with a minus value moves the text UP
-/*   transform: translateY(-1em);  */
-
-
-
 }
 
 
