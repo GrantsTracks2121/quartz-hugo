@@ -8,6 +8,8 @@ Type:
 - " tangent"
 ---
 ## Grant's New Page
+This page: https://dev.to/bdavidxyz/markdown-center-image-39j1
+gives a number of options for centering an image specific to markdown.
 
 ### This is the One That Works
 I put it in an enclose p tag and use css to float the two sections (caption and attribute) to the left and right respectively.

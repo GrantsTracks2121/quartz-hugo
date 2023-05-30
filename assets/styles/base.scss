@@ -140,6 +140,7 @@ img {
   /* max-width: 100%; */
   display: block; /* this is needed to give the image a "block" in which to center itself */
   max-width: 50%;
+  float: none;
   margin-left: auto;
   margin-right: auto;
 /*  margin: auto;  this is supposed to center the image*/
