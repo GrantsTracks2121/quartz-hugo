@@ -25,14 +25,14 @@ Trying to center this one. ***This one centered!!*** It uses the ``#center`` anc
 *This is the caption - let's see what happens with it // 📸 Photo by: Grant Wilson*
 
 ![Just hangin around in the bush](notes/images/IMG_0782.jpeg#portrait)
-*The cache I found after having to bushwhack a bit from the trail "above" it.* 
+<span  style="portrait">*The cache I found after having to bushwhack a bit from the trail "above" it.* </span>
 
 
 
 ## And here's another landscape version:
 
 ![](notes/images/IMG_0768.jpeg#center)
-<span  style="portrait">*This is a smaller picture - 800 px vs the 1500 I've been using.* // 📸 Photo: Grant Wilson</span>
+*This is a smaller picture - 800 px vs the 1500 I've been using.* // 📸 Photo: Grant Wilson
 
 
 ### Yet another solution for centering image and caption together
