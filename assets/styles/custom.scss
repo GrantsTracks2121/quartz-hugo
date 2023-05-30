@@ -30,7 +30,7 @@
 /* GSW - aligning and sizing images */
 /* example format for images: */
 /* ![This should be the Alt Text](notes/images/IMG_0709.jpeg#right50 "This should be the title text") */
-
+/* 
 img[src$='#center']{
     display:block;
     margin: auto;
@@ -40,6 +40,7 @@ img[src$='#center']{
     max-width: 50%;
     position: relative;
 }
+ */
 img[src$='#right30']{
     float: right;
     margin-left: 15px;
