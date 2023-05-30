@@ -148,9 +148,10 @@ img {
 // translateY with a minus value moves the text UP
 p > img + em {
   display: block;
+  max-width: 95%;
   margin: auto;
   transform: translateY(-1em);
-  max-width: 95%;
+
 }
 /* 
 img {
