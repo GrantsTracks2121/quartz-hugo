@@ -108,11 +108,6 @@ p.nav a {
 }
 p.nav a + a {margin:0}
 
-/* This didn't work: */
-p > img[src$='#center'] + em {
-    display:block;
-    margin: auto;
-}
 
 /* trying another option for a container for both image and caption */
 
