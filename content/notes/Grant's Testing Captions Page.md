@@ -91,10 +91,12 @@ By itself, the above code doesn't render what I want - but the idea was to combi
 ### Yet another solution for centering image and caption together
 
 
-<div id="container">
-![This is the alt text](notes/images/IMG_0768.jpeg)
+
+
+![This is the alt text](notes/images/IMG_0768.jpeg#container)
     *This is an image*
-</div>
+    
+
 
 
 
