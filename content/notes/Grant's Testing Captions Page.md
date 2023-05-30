@@ -24,7 +24,7 @@ Trying to center this one. ***This one centered!!*** It uses the ``#center`` anc
 ![Just hangin around in the bush](notes/images/IMG_0782.jpeg#center)
 *This is the caption - let's see what happens with it // 📸 Photo by: Grant Wilson*
 
-***This one has  portrait id attached to the image code.***
+***This one has  portrait id attached to the image code.*** It doesn't work.
 
 ![Just hangin around in the bush](notes/images/IMG_0782.jpeg#portraitcaption)
 <span>*The cache I found after having to bushwhack a bit from the trail "above" it.*</span>
@@ -34,7 +34,7 @@ Trying to center this one. ***This one centered!!*** It uses the ``#center`` anc
 ## And here's another landscape version:
 
 ![](notes/images/IMG_0768.jpeg#center)
-*This is a smaller picture - 800 px vs the 1500 I've been using.* // 📸 Photo: Grant Wilson
+*This is a smaller picture - 800 px vs the 1500 I've been using.* 📸 *Photo: Grant Wilson*
 
 
 ### Yet another solution for centering image and caption together
