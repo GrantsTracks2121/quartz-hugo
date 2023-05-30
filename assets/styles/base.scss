@@ -152,7 +152,9 @@ img {
 p > img + em {
   display: block;
   max-width: 85%;
-  margin: auto;
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
 /*   transform: translateY(-1em);  */
 
 }
