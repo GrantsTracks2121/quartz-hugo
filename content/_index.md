@@ -15,6 +15,8 @@ Here's a link to a page that I made: [[notes/Grant's Testing Captions Page]]
 
 [A sample page of images and captions](notes/A%20sample%20page%20of%20images%20and%20captions.md)
 
+[A page to test out line breaks](notes/A%20page%20to%20test%20out%20line%20breaks.md)
+
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast natural-language [[notes/search]]
