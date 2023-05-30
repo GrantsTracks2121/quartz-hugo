@@ -73,6 +73,18 @@ By itself, the above code doesn't render what I want - but the idea was to combi
 </div>
 
 
+## Here's an 800 px image - look any different?
+
+![](notes/images/IMG_0782.jpeg)
+*The cache I found after having to bushwhack a bit from the trail "above" it.* 
+
+
+
+And here's another landscape version:
+
+![](notes/images/IMG_0768.jpeg)
+*This is a smaller picture - 800 px vs the 1500 I've been using.*
+
 
 ## Here's an attempt at sizing the image with css
 
