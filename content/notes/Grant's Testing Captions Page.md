@@ -82,7 +82,7 @@ By itself, the above code doesn't render what I want - but the idea was to combi
 
 
 
-And here's another landscape version:
+## And here's another landscape version:
 
 ![](notes/images/IMG_0768.jpeg)
 *This is a smaller picture - 800 px vs the 1500 I've been using.*
