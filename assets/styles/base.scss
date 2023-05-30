@@ -135,17 +135,24 @@ td, th {
   padding: 0.2em 1em;
   border: 1px solid var(--outlinegray);
 }
-
+/* the original img definition */
 img {
-  /*max-width: 100%; */ /*original */
+  /* max-width: 100%; */
+  margin: auto;
+  border-radius: 3px;
+  margin: 1em 0;
+}
+
+/* 
+img {
   display: block;
   max-width: 95%;
-  border-radius: 10px; /*This rounds the corners of the image */
-  /* margin: 1em 0;*/ /*original */
+  border-radius: 10px;
   margin-left: auto;
   margin-right: auto;
 
 }
+*/
 /* this successfully centers the image
 img {
   display: block;
