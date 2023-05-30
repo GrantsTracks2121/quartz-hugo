@@ -3,6 +3,7 @@ title: "Grant's Testing Captions Page"
 tags: 
 - 🌱_Seedling
 - 🧹_Needs_Editing
+- 🧹_Needs_Editing/Second_Pass
 ---
 ## Grant's New Page
 
@@ -57,6 +58,8 @@ p.nav a + a {margin:0}
     </div>
 </div>
 ```
+
+By itself, the above code doesn't render what I want - but the idea was to combine it with the ``#right50`` stuff that I was having some success with.
 
 <div id="wrap">
     <div class="caption">
