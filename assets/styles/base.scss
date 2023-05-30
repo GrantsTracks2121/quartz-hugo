@@ -139,14 +139,15 @@ td, th {
 img {
   max-width: 100%;
   border-radius: 10px; /*This rounds the corners of the image */
-  margin: 1em 0;
-  float: center;
+  /*margin: 1em 0;*/
+  margin: auto;
 }
 
 // translateY with a minus value moves the text UP
 p > img + em {
   display: block;
   transform: translateY(-1em);
+  margin: auto; /*added to see if caption will follow image to center */
 }
 
 // These two classes are an experiment to get text on the same line aligned, left and right
