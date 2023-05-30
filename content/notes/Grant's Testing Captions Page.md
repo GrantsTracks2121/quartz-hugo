@@ -90,7 +90,7 @@ Trying to center this one. ***This one centered!!***
 
 ## And here's another landscape version:
 
-![](notes/images/IMG_0768.jpeg)
+![](notes/images/IMG_0768.jpeg#center)
 *This is a smaller picture - 800 px vs the 1500 I've been using.*
 
 
