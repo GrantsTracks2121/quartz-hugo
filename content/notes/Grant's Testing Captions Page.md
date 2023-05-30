@@ -24,7 +24,9 @@ Trying to center this one. ***This one centered!!*** It uses the ``#center`` anc
 ![Just hangin around in the bush](notes/images/IMG_0782.jpeg#center)
 *This is the caption - let's see what happens with it // 📸 Photo by: Grant Wilson*
 
-![Just hangin around in the bush](notes/images/IMG_0782.jpeg#portrait)
+This one has the portrait span tag around the caption:
+
+![Just hangin around in the bush](notes/images/IMG_0782.jpeg)
 <span  style="portrait">*The cache I found after having to bushwhack a bit from the trail "above" it.* </span>
 
 
