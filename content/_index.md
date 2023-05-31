@@ -5,13 +5,13 @@ enableToc: false
 GSW edited this line.
 Here's a link to another page: [[notes/editing]]
 
-Here's a link to a page that I made:
+Here are links to a pages that I made to test things out:
 - [[notes/Grant's Testing Captions Page]]
 - [Testing out footnotes](notes/Testing%20out%20footnotes.md)
 - [New note in acknowledging zero](notes/Acknowledging%20Zero/New%20note%20in%20acknowledging%20zero.md)
 - [callouts](notes/callouts.md)[A sample page of images and captions](notes/A%20sample%20page%20of%20images%20and%20captions.md)
 - [A page to test out line breaks](notes/A%20page%20to%20test%20out%20line%20breaks.md)
-
+- [GSW's version of an original page](notes/GSW's%20version%20of%20an%20original%20page.md)
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast natural-language [[notes/search]]
