@@ -5,7 +5,8 @@ enableToc: false
 GSW edited this line.
 Here's a link to another page: [[notes/editing]]
 
-> [!note ] What have I done to the CSS to make paragraphs NOT have lines between them? 
+> [!note] What have I done to the CSS to make paragraphs NOT have lines between them? 
+> 
 > This is on me somehow. The original code on his pages, which act nicely in his original code doesn't do the same on my site. All I can do is start over I think. Jesus. EDIT - okay I "fixed" in by replacing all of my edited CSS files with the originals. Now I have to put in the changes one by one to see what was screwing with the P tags.
 
 This is a paragraph of text.
@@ -21,16 +22,15 @@ Here are links to a pages that I made to test things out:
 - [GSW's version of an original page](notes/GSW's%20version%20of%20an%20original%20page.md)
 - [The original callouts page.](notes/callouts.md)
 
-> [!Question] Why is the earth above us blue?
-> Blue eyes must have been SO weird to see when Japanese first met westerners.
+> [!NOTE] This note should work
+>
+> This note should work
 
 
-> [!Success]- This was a success!
-> fill in more here
+> [!Success]- You can see that Obsidian is FAR more forgiving with syntax than Quartz is
+>
+> This is a fact
 
-
-> [!INFO] This is an informational callout
-> And this is the information!!
 
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
