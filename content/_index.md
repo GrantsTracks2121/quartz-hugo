@@ -8,6 +8,10 @@ Here's a link to another page: [[notes/editing]]
 > [! Note ] What have I done to the CSS to make paragraphs NOT have lines between them? 
 > This is on me somehow. The original code on his pages, which act nicely in his original code doesn't do the same on my site. All I can do is start over I think. Jesus.
 
+This is a paragraph of text.
+
+And here's another paragraph of text.
+
 Here are links to a pages that I made to test things out:
 - [[notes/Grant's Testing Captions Page]]
 - [Testing out footnotes](notes/Testing%20out%20footnotes.md)
@@ -15,6 +19,9 @@ Here are links to a pages that I made to test things out:
 - [callouts](notes/callouts.md)[A sample page of images and captions](notes/A%20sample%20page%20of%20images%20and%20captions.md)
 - [A page to test out line breaks](notes/A%20page%20to%20test%20out%20line%20breaks.md)
 - [GSW's version of an original page](notes/GSW's%20version%20of%20an%20original%20page.md)
+
+> [! Note ]- This note is supposed to be collapsable.
+> There's no space between the ``-`` character and the bracket before it.
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
