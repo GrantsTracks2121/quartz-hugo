@@ -19,6 +19,7 @@ Here are links to a pages that I made to test things out:
 - [callouts](notes/callouts.md)[A sample page of images and captions](notes/A%20sample%20page%20of%20images%20and%20captions.md)
 - [A page to test out line breaks](notes/A%20page%20to%20test%20out%20line%20breaks.md)
 - [GSW's version of an original page](notes/GSW's%20version%20of%20an%20original%20page.md)
+- [The original callouts page.](notes/callouts.md)
 
 > [! Note ]- This note is supposed to be collapsable.
 > There's no space between the ``-`` character and the bracket before it.
