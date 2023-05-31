@@ -5,7 +5,7 @@ enableToc: false
 GSW edited this line.
 Here's a link to another page: [[notes/editing]]
 
-> [! Note ] What have I done to the CSS to make paragraphs NOT have lines between them? 
+> [!Note ] What have I done to the CSS to make paragraphs NOT have lines between them? 
 > This is on me somehow. The original code on his pages, which act nicely in his original code doesn't do the same on my site. All I can do is start over I think. Jesus.
 
 This is a paragraph of text.
@@ -21,7 +21,7 @@ Here are links to a pages that I made to test things out:
 - [GSW's version of an original page](notes/GSW's%20version%20of%20an%20original%20page.md)
 - [The original callouts page.](notes/callouts.md)
 
-> [! Note ]- This note is supposed to be collapsable.
+> [!Note ]- This note is supposed to be collapsable.
 > There's no space between the ``-`` character and the bracket before it.
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
