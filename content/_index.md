@@ -21,11 +21,9 @@ Here are links to a pages that I made to test things out:
 - [GSW's version of an original page](notes/GSW's%20version%20of%20an%20original%20page.md)
 - [The original callouts page.](notes/callouts.md)
 
-> [!example ]- This note is supposed to be collapsable.
-> There's no space between the ``-`` character and the bracket before it.
+> [!Question] Why is the earth above us blue?
+> Blue eyes must have been SO weird to see when Japanese first met westerners.
 
-> [!Summary] This is a summary
-> This is the content of the summary.
 
 > [!Success]- This was a success!
 > fill in more here
@@ -33,11 +31,6 @@ Here are links to a pages that I made to test things out:
 
 > [!INFO] This is an informational callout
 > And this is the information!!
-
-
-
-> [! Quote] Cross that Bridge when we come to it.
-> This was repeated many times throughout my life by my Dad. 
 
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
