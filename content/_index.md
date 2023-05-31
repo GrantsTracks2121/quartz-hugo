@@ -24,11 +24,17 @@ Here are links to a pages that I made to test things out:
 > [!example ]- This note is supposed to be collapsable.
 > There's no space between the ``-`` character and the bracket before it.
 
-> [!Summary ] This is a summary
+> [!Summary] This is a summary
 > This is the content of the summary.
 
 > [!Success]- This was a success!
 > fill in more here
+
+
+> [!INFO] This is an informational callout
+> And this is the information!!
+
+
 
 > [! Quote] Cross that Bridge when we come to it.
 > This was repeated many times throughout my life by my Dad. 
