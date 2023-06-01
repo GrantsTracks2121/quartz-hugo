@@ -22,9 +22,9 @@ Here are links to a pages that I made to test things out:
 - [GSW's version of an original page](notes/GSW's%20version%20of%20an%20original%20page.md)
 - [The original callouts page.](notes/callouts.md)
 
-> [!NOTE] This note should work
+> [!NOTE] This note callout should work
 >
-> This note should work
+> This note should work - and, by gum, it does!
 
 
 > [!Success]- You can see that Obsidian is FAR more forgiving with syntax than Quartz is
