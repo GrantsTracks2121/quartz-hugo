@@ -1,8 +1,8 @@
 ---
 title: "GSW's version of an original page"
 tags: 
-- 🌱_Seedling
-- 🧹_Needs_Editing
+- 🌱Seedling
+- 🧹Needs_Editing
 ---
 ## GSW's version of an original page
 

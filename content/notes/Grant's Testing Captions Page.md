@@ -1,11 +1,6 @@
 ---
 title: "Grant's Testing Captions Page"
-tags: 
-- 🌱_Seedling
-- 🧹_Needs_Editing
-Type:
-- " core idea"
-- " tangent"
+tags: [🌱Seedling, 🧹Needs_Editing]
 ---
 ## Grant's New Page
 

@@ -1,8 +1,8 @@
 ---
 title: "A page to test out line breaks"
 tags: 
-- 🌱_Seedling
-- 🧹_Needs_Editing
+- 🌱Seedling
+- 🧹Needs_Editing
 ---
 ## A page to test out line breaks
 

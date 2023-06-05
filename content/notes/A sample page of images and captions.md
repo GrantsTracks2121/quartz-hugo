@@ -1,8 +1,8 @@
 ---
 title: "A sample page of images and captions"
 tags: 
-- 🌱_Seedling
-- 🧹_Needs_Editing
+- 🌱Seedling
+- 🧹Needs_Editing
 ---
 ## A sample page of images and captions
 
