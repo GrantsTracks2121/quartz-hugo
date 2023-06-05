@@ -13,7 +13,7 @@
         {{ i18n "last_updated" }} {{ partial "date-fmt.html" .}} 
           {{ partial "github.html" . }}
       </p>
-      Tags:<ul class="tags">
+      <ul class="tags">
           {{ range (.GetTerms "tags") }}
           <li><a href="{{ .Permalink }}">
           {{if (eq $.Site.Language.Lang "en")}}
@@ -25,20 +25,6 @@
            </li>
           {{ end }}
       </ul>
-      <p>Categories: 
-        <ul class="tags">
-          {{ range (.GetTerms "categories") }}
-          <li><a href="{{ .Permalink }}">
-          {{if (eq $.Site.Language.Lang "en")}}
-            {{ .LinkTitle | humanize }}
-          {{else}}
-            {{ .LinkTitle }}
-          {{end}}
-            </a>
-           </li>
-          {{ end }}
-      </ul>
-      </p>
       {{partial "toc.html" .}}
       {{partial "textprocessing.html" . }}
     </article>
