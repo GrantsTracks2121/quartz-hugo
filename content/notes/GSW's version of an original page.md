@@ -1,7 +1,6 @@
 ---
 title: "GSW's version of an original page"
-tags: [🌱Seedling, 🧹Needs_Editing,  NewTag]
-categories: [Test_Category]
+tags: [🌱Seedling, 🧹Needs_Editing]
 
 ---
 ## GSW's version of an original page
@@ -24,7 +23,7 @@ You can also add tags here as well.
 ```yaml
 ---
 title: "Example Title"
-tags: 🌱Seedling,🧹Needs_Editing,NewTag
+tags: 🌱Seedling,🧹Needs_Editing,NewTag,newertag
 - example-tag
 ---
 

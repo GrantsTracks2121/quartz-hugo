@@ -1,8 +1,8 @@
 ---
 title: "Grant's Testing Captions Page"
-tags: [🌱Seedling, 🧹Needs_Editing]
+tags: [🌿Budding, 🧹Needs_Editing, 🌳Mature, 💡Core_Idea]
 ---
-## Grant's New Page
+## Grant's New Page. 
 
 > [!NOTE ] Centering the image and caption together
 > Okay I've got the LANDSCAPE pictures centering with the caption centering with them. But damn, now I need to center or constrain the portrait images. The captions don't look right on those.
