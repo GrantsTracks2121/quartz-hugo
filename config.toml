@@ -9,7 +9,7 @@ ignoreFiles = [
 summaryLength = 30
 paginate = 10
 enableGitInfo = true
-
+enableEmoji = true
 [markup]
     [markup.tableOfContents]
         endLevel = 3
