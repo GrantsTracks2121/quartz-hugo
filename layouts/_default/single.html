@@ -13,7 +13,7 @@
         {{ i18n "last_updated" }} {{ partial "date-fmt.html" .}} 
           {{ partial "github.html" . }}
       </p>
-      <ul class="tags">
+      Tags:<ul class="tags">
           {{ range (.GetTerms "tags") }}
           <li><a href="{{ .Permalink }}">
           {{if (eq $.Site.Language.Lang "en")}}
@@ -25,7 +25,7 @@
            </li>
           {{ end }}
       </ul>
-      <p>
+      <p>Categories: 
         <ul class="tags">
           {{ range (.GetTerms "categories") }}
           <li><a href="{{ .Permalink }}">
