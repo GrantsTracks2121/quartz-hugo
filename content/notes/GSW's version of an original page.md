@@ -1,6 +1,6 @@
 ---
 title: "GSW's version of an original page"
-tags: 🌱Seedling, 🧹Needs_Editing,  NewTag
+tags: [🌱Seedling, 🧹Needs_Editing,  NewTag]
 
 ---
 ## GSW's version of an original page
