@@ -2,6 +2,8 @@
 title: "The Way Things Are"
 enableToc: false
 ---
+
+[new page to test tags in a row in yaml](notes/new%20page%20to%20test%20tags%20in%20a%20row%20in%20yaml.md)
 GSW edited this line.
 Here's a link to another page: [[notes/editing]]
 

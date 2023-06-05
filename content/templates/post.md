@@ -1,7 +1,5 @@
 ---
 title: "{{title}}"
-tags: 
-- 🌱_Seedling
-- 🧹_Needs_Editing
+tags: 🌱Seedling,🧹Needs_Editing
 ---
 ## {{title}}
