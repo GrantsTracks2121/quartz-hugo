@@ -1,6 +1,7 @@
 ---
 title: "GSW's version of an original page"
 tags: [🌱Seedling, 🧹Needs_Editing,  NewTag]
+categories: [Test_Category]
 
 ---
 ## GSW's version of an original page

@@ -25,6 +25,20 @@
            </li>
           {{ end }}
       </ul>
+      <p>
+        <ul class="tags">
+          {{ range (.GetTerms "categories") }}
+          <li><a href="{{ .Permalink }}">
+          {{if (eq $.Site.Language.Lang "en")}}
+            {{ .LinkTitle | humanize }}
+          {{else}}
+            {{ .LinkTitle }}
+          {{end}}
+            </a>
+           </li>
+          {{ end }}
+      </ul>
+      </p>
       {{partial "toc.html" .}}
       {{partial "textprocessing.html" . }}
     </article>
