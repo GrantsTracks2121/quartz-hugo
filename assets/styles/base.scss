@@ -26,8 +26,19 @@ html {
 // started with padding: 4em 25vw;
 // decreasing the padding creates less padding at top of page
 // the "vw" is the viewing width - smaller value makes it take up more of the screen
+// Original 
+// .singlePage {
+//   padding: 4em 30vw;
+//   margin: 0 auto;
+//   max-width: 1000px;
+//   @media all and (max-width: 1200px) {
+//     padding: 25px 5vw;
+//   }
+// }
+
+// 
 .singlePage {
-  padding: 4em 50vw;
+  padding: .5em 10vw;
   margin: 0 auto;
   max-width: 1000px;
   @media all and (max-width: 1200px) {

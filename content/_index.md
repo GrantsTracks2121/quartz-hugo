@@ -2,8 +2,9 @@
 title: "The Way Things Are"
 enableToc: false
 ---
-[Test-justifying-images](notes/Test-justifying-images.md)
+## The Way Things Are
 [Test justifying images](notes/justifying-images.md)
+
 [GSW's version of an original page](notes/GSW's%20version%20of%20an%20original%20page.md)
 
 [new page to test tags in a row in yaml](notes/new%20page%20to%20test%20tags%20in%20a%20row%20in%20yaml.md)
