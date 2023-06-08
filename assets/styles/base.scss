@@ -19,9 +19,15 @@ html {
     text-align: center !important;
   }
 }
-
+// Originally padding was 30vw - 30% on each side - vw is view width and you
+// can think of it as % - so decrease the padding to
+// increase the size of the container the text is in.
+// To add columns singlePage seems to be the one to target
+// started with padding: 4em 25vw;
+// decreasing the padding creates less padding at top of page
+// the "vw" is the viewing width - smaller value makes it take up more of the screen
 .singlePage {
-  padding: 4em 30vw;
+  padding: 4em 50vw;
   margin: 0 auto;
   max-width: 1000px;
   @media all and (max-width: 1200px) {

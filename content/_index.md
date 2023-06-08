@@ -2,7 +2,7 @@
 title: "The Way Things Are"
 enableToc: false
 ---
-[Test justifying images](notes/Test%20justifying%20images.md)
+[Test-justifying-images](notes/Test-justifying-images.md)
 [Test justifying images](notes/justifying-images.md)
 [GSW's version of an original page](notes/GSW's%20version%20of%20an%20original%20page.md)
 
