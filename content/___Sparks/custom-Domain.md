@@ -1,5 +1,12 @@
 ---
-title: "Custom Domain"
+title: "custom Domain"
+datecreated: 2023-06-07
+slug: 
+description: 
+project: TWTR
+draft: true
+categories: [Uncategorized]
+tags: [🌱Seedling, 🧹Needs_Editing]
 ---
 
 ### Registrar

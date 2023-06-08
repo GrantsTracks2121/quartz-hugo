@@ -1,0 +1,1 @@
+![](notes/images/IMG_0863.jpeg#right50)

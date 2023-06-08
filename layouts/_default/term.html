@@ -10,7 +10,7 @@
     <article>
         <h1>{{ i18n "tag" }}: {{ .Title }}</h1>
         {{with .Params.description}}
-            <p>{{.}}gsw</p>
+            <p>{{.}}</p>
         {{end}}
         {{partial "page-list.html" .Paginator.Pages}}
         {{ template "_internal/pagination.html" . }}
