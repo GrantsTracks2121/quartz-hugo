@@ -6,7 +6,10 @@ enableToc: false
 
 [hosting - an original note](notes/hosting.md)
 
-[new page while trying to solve link problem](notes/new%20page%20while%20trying%20to%20solve%20link%20problem.md)
+[new-page-while-trying-to-solve-link-problem](notes/new-page-while-trying-to-solve-link-problem.md)
+
+I just changed the links to get rid of %20 and replace with dashes. Is that it?
+I thought the "slug" entry in the YAML was the problem, but it isn't. So what is it?
 
 [Test-justifying-images - a new one](notes/Test-justifying-images.md)
 
