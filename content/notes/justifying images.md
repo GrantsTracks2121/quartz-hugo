@@ -1,7 +1,6 @@
 ---
 title: "justifying images"
 datecreated: '2023-06-08'
-slug: 
 description: 
 project: TWTR
 draft: true

@@ -1,7 +1,6 @@
 ---
 title: "{{title}}"
 datecreated: '{{date:YYYY-MM-DD}}'
-slug: 
 description: 
 project: TWTR
 draft: true
