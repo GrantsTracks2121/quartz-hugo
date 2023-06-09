@@ -3,9 +3,10 @@ title: "The Way Things Are"
 enableToc: false
 ---
 ## The Way Things Are
-[justifying images](notes/justifying%20images.md)
 
-[Test justifying images](notes/Test-justifying-images.md)
+[hosting - an original note](notes/hosting.md)
+
+[Test-justifying-images - a new one](notes/Test-justifying-images.md)
 
 [ignore notes](notes/ignore%20notes.md)
 
