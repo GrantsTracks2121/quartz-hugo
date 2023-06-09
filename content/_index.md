@@ -11,7 +11,8 @@ enableToc: false
 I just changed the links to get rid of %20 and replace with dashes. Is that it?
 I thought the "slug" entry in the YAML was the problem, but it isn't. So what is it?
 
-[Test-justifying-images - a new one](notes/Test-justifying-images.md)
+I took OUT the "datecreated" line from the YAML on this one. Let's see what happens:
+	[Test-justifying-images - a new one](notes/Test-justifying-images.md)
 
 [ignore notes](notes/ignore%20notes.md)
 

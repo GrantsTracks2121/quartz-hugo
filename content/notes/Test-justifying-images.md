@@ -1,6 +1,5 @@
 ---
 title: "Test justifying images"
-datecreated: '2023-06-08'
 description: 
 project: TWTR
 draft: true
