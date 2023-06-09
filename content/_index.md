@@ -3,7 +3,7 @@ title: "The Way Things Are"
 enableToc: false
 ---
 ## The Way Things Are
-[Justifying Images](notes/justifying-images.md)
+[Justifying Images](notes/justifying%20images.md)
 
 [GSW's version of an original page](notes/GSW's%20version%20of%20an%20original%20page.md)
 
