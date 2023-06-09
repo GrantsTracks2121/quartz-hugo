@@ -6,6 +6,8 @@ enableToc: false
 
 [hosting - an original note](notes/hosting.md)
 
+[new page while trying to solve link problem](notes/new%20page%20while%20trying%20to%20solve%20link%20problem.md)
+
 [Test-justifying-images - a new one](notes/Test-justifying-images.md)
 
 [ignore notes](notes/ignore%20notes.md)
