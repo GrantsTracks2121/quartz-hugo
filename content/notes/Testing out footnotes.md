@@ -1,6 +1,6 @@
 ---
 title: "Testing out footnotes"
-tags: 🌱Seedling,🧹Needs_Editing
+tags: [🌱Seedling, 🧹Needs_Editing]
 ---
 ## Testing out footnotes
 Here's the syntax for footnotes again:
