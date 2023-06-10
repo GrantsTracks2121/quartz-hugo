@@ -15,3 +15,14 @@ I'm trying the figcaption HTML element again. First try - nope. The caption disp
 [Google](https://google.ca) is *all sorts* of colours.
 
 </figcaption>
+
+
+|                                       |
+|:-------------------------------------:|
+| ![](notes/images/IMG_0762.jpg) |
+|*This is the caption - full sized picture*  |
+
+|                                       |
+|:-------------------------------------:|
+| ![](notes/images/IMG_0762.jpg#right50) |
+|*This is the caption - 50% sized picture*  |
