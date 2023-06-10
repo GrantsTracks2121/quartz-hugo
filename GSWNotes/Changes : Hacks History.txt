@@ -1,0 +1,6 @@
+- Get rid of the # in front of all the headings.
+
+I thought the # symbol in front of all the headings was aesthetically weird. I can get rid of it, but does it impair any functionality if I do?
+
+in: layouts/partials/textprocessing.html
+
