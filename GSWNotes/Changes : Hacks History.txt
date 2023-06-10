@@ -15,6 +15,22 @@ When you remove this, the anchors in the TOC sections still work. But in in the 
 
 ~~~~~~~~~~
 
+Change the size of the page's view port to take up more of a web page:
+
+To /assets/styles/base.scss
+change padding from "4em 30vw;" to .5em 25vw;
+This decreases the padding at the TOP of the page and widens the container for the content.
+
+.singlePage {
+  padding: .5em 25vw;
+  margin: 0 auto;
+  max-width: 1000px;
+  @media all and (max-width: 1200px) {
+    padding: 25px 5vw;
+  }
+}
+
+
 Allow images to be resized to 30 or 50% and left and right justified so that text flows around them. Doing this means these images can't have captions.
 
 To /assets/styles/custom.scss
