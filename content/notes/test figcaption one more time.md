@@ -10,4 +10,8 @@ I'm obsessing again about being able to resize an image and also add a caption u
 I'm trying the figcaption HTML element again. First try - nope. The caption displays ABOVE the image. The image has the float attribute, so 
 
 ![](notes/images/IMG_0782.jpeg#right50)
-<figcaption>[Google](https://google.ca) is *all sorts* of colours.</figcaption>
+<figcaption class="captionright">
+
+[Google](https://google.ca) is *all sorts* of colours.
+
+</figcaption>
