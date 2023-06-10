@@ -4,6 +4,8 @@ enableToc: false
 ---
 ## The Way Things Are
 
+[Test attribute on image](notes/Test%20attribute%20on%20image.md)
+
 [A-quick-tour-of-Jackie-Parker-Park](notes/A-quick-tour-of-Jackie-Parker-Park.md)
 
 [Another-new-file](notes/Another-new-file.md)
