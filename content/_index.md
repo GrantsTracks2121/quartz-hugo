@@ -4,7 +4,9 @@ enableToc: false
 ---
 ## The Way Things Are
 
-[hosting - an original note](notes/hosting.md)
+[A-quick-tour-of-Jackie-Parker-Park](notes/A-quick-tour-of-Jackie-Parker-Park.md)
+
+[Another-new-file](notes/Another-new-file.md)
 
 [new-page-while-trying-to-solve-link-problem](notes/new-page-while-trying-to-solve-link-problem.md)
 
