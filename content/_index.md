@@ -4,7 +4,7 @@ enableToc: false
 ---
 ## The Way Things Are
 
-[test figcaption one more time](notes/test%20figcaption%20one%20more%20time.md)
+[Testing the blockquote](notes/Testing%20the%20blockquote.md)
 
 [A-quick-tour-of-Jackie-Parker-Park](notes/A-quick-tour-of-Jackie-Parker-Park.md)
 
