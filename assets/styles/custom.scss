@@ -64,24 +64,3 @@ img[src$='#left50']{
     max-width: 50%;
     position: relative;
 }
-
-// Adding to test displaying the attribute for the image on the image
-// *, *:before, *:after {
-//   box-sizing: border-box;
-// }
-.img-container {
-  position: relative;
-  display: inline-block;
-}
-
-.img-attrib {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  margin: 0 .5em .5em 0;
-  padding: .25em;
-  color: white;
-  background-color: rgba(0,0,0,.2)
-}
-
-
