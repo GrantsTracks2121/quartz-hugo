@@ -27,5 +27,40 @@
   --highlighted: #574010;
 }
 
+// Added to allow resize and justification of images.
 
+img[src$='#right30']{
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    max-width: 30%;
+    position: relative;
+}
 
+img[src$='#right50']{
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    max-width: 50%;
+    position: relative;
+}
+
+img[src$='#left30']{
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    max-width: 30%;
+    position: relative;
+}
+
+img[src$='#left50']{
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    max-width: 50%;
+    position: relative;
+}
