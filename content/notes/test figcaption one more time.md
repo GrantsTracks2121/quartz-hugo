@@ -11,7 +11,7 @@ I'm trying the figcaption HTML element again. First try - nope. The caption disp
 <p>
 
 ![](notes/images/IMG_0782.jpeg#right50)
-*Here's the caption that I want to add. Does it move with the image?*
+<span class="captionright50">*Here's the caption that I want to add. Does it move with the image?*</span>
 
 </p>
 

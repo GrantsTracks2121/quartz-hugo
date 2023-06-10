@@ -139,6 +139,13 @@ p > img + em {
   transform: translateY(-1em);
 }
 
+p > img + em +.captionright50 {
+  float: right;
+  width: 50%;
+  display: block;
+  transform: translateY(-1em);
+}
+
 sup {
   line-height: 0
 }
