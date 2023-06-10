@@ -66,9 +66,9 @@ img[src$='#left50']{
 }
 
 // Adding to test displaying the attribute for the image on the image
-*, *:before, *:after {
-  box-sizing: border-box;
-}
+// *, *:before, *:after {
+//   box-sizing: border-box;
+// }
 .img-container {
   position: relative;
   display: inline-block;
