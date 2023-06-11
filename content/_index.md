@@ -11,6 +11,8 @@ And already I hasten to point out I ***don't*** claim to know exactly the way th
 The starting point is that there is no purpose, no meaning inherent in our existence apart from what we make of it.
 
 And it is wonderful what we can make of it.
+ ![](notes/images/NASA-Apollo8-Dec24-Earthrise.jpg)
+ *Bill Anders, Public domain, via Wikimedia Commons*
 
 
 
