@@ -12,7 +12,7 @@ The starting point is that there is no purpose, no meaning inherent in our exist
 
 And it is wonderful what we can make of it.
  ![](notes/images/NASA-Apollo8-Dec24-Earthrise.jpg)
- *Bill Anders, Public domain, via Wikimedia Commons*
+ *Earthrise // 📸 Bill Anders, Public domain, via Wikimedia Commons*
 
 
 
