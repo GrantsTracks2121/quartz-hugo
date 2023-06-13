@@ -11,7 +11,8 @@
   --lightgray: #f0f0f0;
   --outlinegray: #dadada;
   --million-progress-bar-color: var(--secondary);
-  --highlighted: #f5dfaf88;
+  //original highlighted: #f5dfaf88
+  --highlighted: #0aad7a;
 }
 
 [saved-theme="dark"] {
@@ -24,7 +25,8 @@
   --gray: #d4d4d4 !important;
   --lightgray: #292633 !important;
   --outlinegray: #343434 !important;
-  --highlighted: #574010;
+//original highlighted: #574010
+  --highlighted: #f5e502;
 }
 
 // style for bold and italic
