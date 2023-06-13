@@ -357,12 +357,12 @@ hr {
 .spacer {
   flex: 1 1 auto;
 }
-
+// original:   margin: 1em 0 2em;
 header {
   display: flex;
   flex-direction: row;
   align-items: center;
-  margin: 1em 0 2em;
+  margin: 1em 0 1em;
 
   & > h1 {
     font-size: 2em;
