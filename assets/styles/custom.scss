@@ -30,7 +30,10 @@
 }
 
 // style for bold and italic
-p > em + strong {
+// https://www.w3schools.com/css/css_combinators.asp
+// > means the following are children or inside the preceding
+// + means the second element is directly after the first
+p > em + b {
   font-family: var(--font-body);
   color: var(--highlighted);
 }
