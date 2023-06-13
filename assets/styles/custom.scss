@@ -27,6 +27,15 @@
   --highlighted: #574010;
 }
 
+// Added subtitle class
+
+.subtitle {
+	float: left;
+	margin-top: -2px;
+	font-family: var(--font-body);
+	font-style: oblique;
+}
+
 // Added to allow resize and justification of images.
 
 img[src$='#right30']{
