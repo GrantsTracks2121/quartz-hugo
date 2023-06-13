@@ -28,7 +28,7 @@
 }
 
 // style for bold and italic
-p > em + strong {
+p > em {
   font-family: var(--font-body);
   color: var(--highlighted);
 }
