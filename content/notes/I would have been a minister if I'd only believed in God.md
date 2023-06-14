@@ -29,7 +29,7 @@ A "minister" to me was a representative of religion and religion was in turn whe
 
 To me, having grown up in a culture where Christianity was the pervasive religious belief system, "God" was the Christian god. When you thought of that God, you didn't think of a blade of grass in the back yard, or of the beauty of a sunset. This god was a personal God  %%Need link to definition or footnote%% who was the "father" of Jesus who was the "Son of God" and both were somehow connected with the Holy Ghost in a "trinity". The Holy Ghost wasn't mentioned all that much, now that I think of it. He just seemed to show up for board meetings and presumably spent the rest of his time (which wouldn't even be a thing if you were the Holy Ghost) maybe playing golf.
 
-But the idea of a "Wizard of Oz" figure, a "He" God with the human attributes of jealousy, anger, vengefulness, all of which permeate the primarily Old Testament books of the Bible, seemed like sheer nonsense. In short, I didn't - and don't - believe in the concept of a [[Definition of "Personal God"|"personal God"]].
+But the idea of a "Wizard of Oz" figure, a "He" God with the human attributes of jealousy, anger, vengefulness, all of which permeate the primarily Old Testament books of the Bible, seemed like sheer nonsense. In short, I didn't - and don't - believe in the concept of a [[notes/Definition of Personal God|"personal God"]].
 
 ### Thats what I meant. What does it mean to me now?
 More and more I realize that everyone is and should be their own minister. There is no underlying plan inherent in existence  %%need link here to where this idea is expanded%% so there is no "Oz" behind the any curtains pulling the strings that determine the course of our lives. 
