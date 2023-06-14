@@ -1,5 +1,5 @@
 ---
-title: "Definition of "Personal God""
+title: "Definition of Personal God"
 datecreated: "2023-06-14"
 description: 
 tags: [🌱Seedling, 📝Needs_Editing]
