@@ -4,9 +4,9 @@ tags: [🌱Seedling, 📝Needs_Editing]
 ---
 ## I would have been a minister if I'd only believed in God
 
-> [!NOTE] This is an example of what I'd call a "sticky memory"
+> [!NOTE] This is an example of what I'd call a "sticky memory".
 >
-> By that I mean it comes up again and again throughout my life. This particular memory continues to help define what I consider important to me.
+> By that I mean it's like a "sticky" blog post: one that stay at the top of the list in one's consciousness over time, one that comes up again and again throughout my life. This particular memory continues to help define what I consider important to me.
 
 I believe I was in my late teens or early 20's when I said to a friend who knew me well:
 
@@ -26,13 +26,13 @@ The idea of a "Wizard of Oz" figure, a "He" God with the human attributes of jea
 
 A "minister" to me was a representative of religion and religion was in turn where the realm of the unseen, where the mystery behind "what is going on" resided. A minister was one who dealt in questions that that arose from that mysterious realm. A minister's vocation was to search and attempt to understand how our existence fits together, assuming there's any fitting together to be realized at all.
 
-### What's did not believing in God mean?
+### Whats did "not believing in God" mean?
 
 To me, having grown up in a culture where Christianity was the pervasive religious belief system, "God" was the Christian god. When you thought of that God, you didn't think of a blade of grass in the back yard, or of the beauty of a sunset. This god was [a "Personal God"](notes/A%20Personal%20God.md) who was the "Father" of Jesus who was in turn the "Son of God", and therefore a human and a God at the same time. Finally, both "Father" and "Son" were somehow connected with the Holy Spirit in a "trinity".
 
 But the idea of a "Wizard of Oz" figure, a "He" God with the human attributes of jealousy, anger, vengefulness, all of which permeate the primarily Old Testament books of the Bible, seemed like sheer nonsense. This torpedoed the whole narrative for me. In short, I didn't - and don't - believe in the concept of a personal God.
 
-### That's what I meant. What does it mean to me now?
+### That's what I meant then. What does it mean to me now?
 
 More and more I realize that in a sense everyone is and should be their own minister. There is no underlying plan inherent in existence so there is no "Oz" behind the any curtains pulling the strings that determine the course of our lives. 
 

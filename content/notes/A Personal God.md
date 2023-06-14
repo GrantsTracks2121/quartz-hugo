@@ -4,7 +4,6 @@ datecreated: "2023-06-14"
 description: 
 tags: [🌱Seedling, 📝Needs_Editing]
 ---
-
 ## Definition of "Personal God"
 
 >A personal god, or personal goddess, is a deity who can be related to as a person instead of as an impersonal force, such as the Absolute.[^1]
