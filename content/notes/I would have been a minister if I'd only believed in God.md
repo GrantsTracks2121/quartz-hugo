@@ -2,6 +2,7 @@
 title: "I would have been a minister if I'd only believed in God"
 tags: [🌱Seedling, 📝Needs_Editing]
 ---
+
 ## I would have been a minister if I'd only believed in God
 
 > [!NOTE] This is an example of what I'd call a "sticky memory".
