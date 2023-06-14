@@ -38,13 +38,13 @@ body {
   box-sizing: border-box;
   background-color: var(--light);
 }
-
+// original   margin: 2rem 0 0;  padding: 2rem auto 1rem;
 h1, h2, h3, h4, h5, h6, thead {
   font-family: var(--font-header);
   color: var(--dark);
   font-weight: revert;
-  margin: 2rem 0 0;
-  padding: 2rem auto 1rem;
+  margin: 1rem 0 0;
+  padding: 1rem auto 1rem;
 
   &:hover > .hanchor {
     color: var(--secondary);
