@@ -29,11 +29,11 @@
   --highlighted: #FFFF00; // yellow text
 }
 
-// style for bold and italic
+// style for bold and italic combined
 // https://www.w3schools.com/css/css_combinators.asp
 // > means the following are children or inside the preceding
 // + means the second element is directly after the first
- p > em + b {
+ p > strong + em {
    font-family: var(--font-body);
    color: var(--highlighted);
  }
