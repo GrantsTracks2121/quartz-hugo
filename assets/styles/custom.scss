@@ -33,10 +33,10 @@
 // https://www.w3schools.com/css/css_combinators.asp
 // > means the following are children or inside the preceding
 // + means the second element is directly after the first
-// p > em + [strong] {
-//   font-family: var(--font-body);
-//   color: var(--highlighted);
-// }
+ p > em + *[<strong>] {
+   font-family: var(--font-body);
+   color: var(--highlighted);
+ }
 
 // Added subtitle class
 
