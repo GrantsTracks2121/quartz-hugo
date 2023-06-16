@@ -14,7 +14,7 @@ This is the ***home*** page - and *only* page so far - of *The Way Things Are*.
 
 And it is wonderful what we can make of it.
 
-
+[A Personal God](notes/A%20Personal%20God.md)
 
 
 

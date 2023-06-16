@@ -1,7 +1,8 @@
 ---
+enableTOC: false
 title: "Definition of Personal God"
 datecreated: "2023-06-14"
-description: 
+description: "The definition of Personal God"
 tags: [🌱Seedling, 📝Needs_Editing]
 ---
 ## Definition of "Personal God"

@@ -1,4 +1,5 @@
 ---
+enableTOC: false
 title: "Karass"
 datecreated: '2023-06-15'
 tags: [🌱Seedling, 🧹Needs_Editing]
