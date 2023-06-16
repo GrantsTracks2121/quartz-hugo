@@ -1,6 +1,7 @@
 ---
 title: "The Way Things Are"
 enableToc: false
+
 ---
 ## The Way Things Are
 

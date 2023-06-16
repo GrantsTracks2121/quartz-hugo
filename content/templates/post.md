@@ -1,7 +1,7 @@
 ---
 title: "{{title}}"
 datecreated: "{{date:YYYY-MM-DD}}"
-description: "This is the description. Where does it show up?"
+description: "{{title}}"
 tags: [🌱Seedling, 🧹Needs_Editing]
 ---
 ⟰ 

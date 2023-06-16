@@ -5,3 +5,6 @@ tags: [🌱Seedling, 🧹Needs_Editing]
 ---
 ⟰ 
 ## Resources
+
+## Books
+[Cat's Cradle by Kurt Vonnegut](notes/Cat's%20Cradle%20by%20Kurt%20Vonnegut.md)

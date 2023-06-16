@@ -34,14 +34,14 @@
 // > means the following are children or inside the preceding
 // + means the second element is directly after the first
 
-b,
-strong {
-  font-weight:bolder
-}
-p > em + strong {
-   font-family: var(--font-body);
-   color: var(--highlighted);
- }
+// b,
+// strong {
+//   font-weight:bolder
+// }
+// p > em + strong {
+//    font-family: var(--font-body);
+//    color: var(--highlighted);
+//  }
 
 // Added subtitle class
 
