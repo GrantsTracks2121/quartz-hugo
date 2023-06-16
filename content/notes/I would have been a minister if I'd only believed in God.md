@@ -4,8 +4,6 @@ title: "I would have been a minister if I'd only believed in God"
 tags: [🌿Budding, 📝Needs_Editing]
 ---
 
-## I would have been a minister if I'd only believed in God
-
 > [!NOTE] This is a personal self-defining belief.
 >
 > This kind of belief remains fixed in one's consciousness over time, and it has resurfaced to be re-evaluated throughout my life. This particular memory continues to help define what I consider is important to me.
