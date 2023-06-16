@@ -7,7 +7,7 @@ tags: [🌱Seedling, 📝Needs_Editing]
 
 > [!NOTE] This is an example of what I'd call a "sticky memory".
 >
-> By that I mean it's like a "sticky" blog post: one that stay at the top of the list in one's consciousness over time, one that comes up again and again throughout my life. This particular memory continues to help define what I consider important to me.
+> A "sticky" blog post stays at the top of the list posts on a site. Likewise a "sticky memory" remains fixed in one's consciousness over time, it comes up again and again throughout my life. This particular memory continues to help define what I consider important to me.
 
 I believe I was in my late teens or early 20's when I said to a friend who knew me well:
 
