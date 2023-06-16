@@ -1,4 +1,5 @@
 ---
+openTOC: true
 description: "Resources referred to on the site"
 title: "Resources"
 datecreated: "2023-06-16"
