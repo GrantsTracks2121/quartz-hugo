@@ -1,13 +1,14 @@
 ---
+description: "The urge to search for what power, energy, life force that creates and fosters our existence, yet not believing in the stories that organized religion offers."
 title: "I would have been a minister if I'd only believed in God"
-tags: [🌱Seedling, 📝Needs_Editing]
+tags: [🌿Budding, 📝Needs_Editing]
 ---
 
 ## I would have been a minister if I'd only believed in God
 
-> [!NOTE] This is an example of what I'd call a "sticky memory".
+> [!NOTE] This is a personal self-defining belief.
 >
-> A "sticky" blog post stays at the top of the list posts on a site. Likewise a "sticky memory" remains fixed in one's consciousness over time, it comes up again and again throughout my life. This particular memory continues to help define what I consider important to me.
+> This kind of belief remains fixed in one's consciousness over time, and it has resurfaced to be re-evaluated throughout my life. This particular memory continues to help define what I consider is important to me.
 
 I believe I was in my late teens or early 20's when I said to a friend who knew me well:
 

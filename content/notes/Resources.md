@@ -1,7 +1,8 @@
 ---
+description: "Resources referred to on the site"
 title: "Resources"
 datecreated: "2023-06-16"
-tags: [🌱Seedling, 🧹Needs_Editing]
+tags: [🌱Seedling]
 ---
 ⟰ 
 ## Resources

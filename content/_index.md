@@ -17,7 +17,7 @@ And it is wonderful what we can make of it.
 
 [A Personal God](notes/A%20Personal%20God.md)
 
-
+[Resources](notes/Resources.md)
 
 
 
