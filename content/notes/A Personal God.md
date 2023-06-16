@@ -5,7 +5,6 @@ datecreated: "2023-06-14"
 description: "The definition of Personal God"
 tags: [🌱Seedling, 📝Needs_Editing]
 ---
-## Definition of "Personal God"
 
 >A personal god, or personal goddess, is a deity who can be related to as a person instead of as an impersonal force, such as the Absolute.[^1]
 
@@ -13,7 +12,7 @@ tags: [🌱Seedling, 📝Needs_Editing]
 
 The God of the Bible's Old Testament is described as a personal God.
 
-[This post](https://www.blueletterbible.org/faq/don_stewart/don_stewart_1277.cfm) says:
+[This post](https://www.blueletterbible.org/faq/don_stewart/don_stewart_1277.cfm){target="_blank"} says:
 
 >While most of the religions of the world believe that God is an impersonal being, the God who is revealed in the Bible is a personal God. This means that He has the characteristics of a person. A person can be defined as someone who is rational, conscious of his own being. This is how the Bible portrays God. He is a person, not an impersonal force.
 
