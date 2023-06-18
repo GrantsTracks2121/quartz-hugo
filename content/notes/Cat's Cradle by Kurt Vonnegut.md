@@ -7,7 +7,7 @@ tags: [🌱Seedling, 🧹Needs_Editing]
 
 ⟰  [[Resources]]
 
-![](notes/images/Pasted%20image%2020230616130259.png#right50)
+![](notes/images/catscradlecover.png#right50)
 Cat's Cradle was Kurt Vonnegut's fourth novel.
 
 >...it was first published in 1963, exploring and satirizing issues of science, technology, the purpose of religion, and the arms race, often through the use of morbid humor.[^1]

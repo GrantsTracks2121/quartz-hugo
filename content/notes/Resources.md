@@ -9,4 +9,6 @@ tags: [🌱Seedling]
 ## Resources
 
 ## Books
-[Cat's Cradle by Kurt Vonnegut](notes/Cat's%20Cradle%20by%20Kurt%20Vonnegut.md)
+[Cat's Cradle by Kurt Vonnegut![Cat's Cradle Cover](notes/images/catscradlecover.png#right30)]
+
+(notes/Cat's%20Cradle%20by%20Kurt%20Vonnegut.md)
