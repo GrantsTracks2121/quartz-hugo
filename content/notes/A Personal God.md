@@ -23,5 +23,3 @@ Islam, by contrast, doesn't consider God to be a person but there's no other way
 ## Demo Markdown
 
 [Google {_ext}](https://google.ca)
-
-<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v1.0.0/main.min.js'></script>
