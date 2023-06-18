@@ -31,9 +31,6 @@
     end }}
   </title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  
-  <!-- Added by GSW to force links with {_ext} in [] brackets to open in new tab -->
-  <script type="text/javascript" src="js/extLink.js"></script>
 
   <!-- HTML Favicon -->
   {{ $favicon := $data.favicon  | default $.Site.Data.config.favicon | default (slice (dict "rel" "shortcut icon" "type" "image/png" "href" "icon.png")) }}

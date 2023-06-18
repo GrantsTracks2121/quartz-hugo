@@ -1,1 +1,0 @@
-!function(){var t=document.body.getElementsByTagName("a"),e=t.length;const n=" {ext}";for(var a=0;a<e;a++)t[a].textContent.includes(n)&&(t[a].setAttribute("target","_blank"),t[a].textContent=t[a].textContent.replace(n,""))}();
