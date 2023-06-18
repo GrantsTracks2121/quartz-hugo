@@ -20,6 +20,8 @@ Cat's Cradle was Kurt Vonnegut's fourth novel.
 
 ### Related Pages
 
+[Bokononism is Nothing but Foma](notes/Bokononism%20is%20Nothing%20but%20Foma.md)
+
 [The last rites of Bokononism](notes/The%20last%20rites%20of%20Bokononism.md)
 
 [Wampeter](notes/Wampeter.md)
