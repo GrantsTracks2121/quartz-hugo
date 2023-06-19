@@ -100,6 +100,7 @@ img[src$='#left33']{
 // this applies in everything inside "article" - the container for all content on the page.
 // I added vertical-align: super; to make it appear above the line.
 // This icon is black - I need a white version for dark mode
+// "currentcolor" is supposed to account for dark/light mode changes but it's not working
 article a[href^="http"]::after,
 article a[href^="https://"]::after
 {
@@ -113,8 +114,4 @@ article a[href^="https://"]::after
   background-repeat: no-repeat;
   background-size: contain;
   display: inline-block;
-}
-
-svg {
-	fill: currentColor;
 }
