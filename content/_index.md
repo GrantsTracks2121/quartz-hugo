@@ -4,8 +4,9 @@ datecreated: '2023-06-18'
 tags: [🌱Seedling, 🧹Needs_Editing]
 enableToc: false
 ---
-This is the ***home*** page - and *only* page so far - of *The Way Things Are*, what is meant to be a consistently-tended digital garden. Anne-Laure Le Cunff knows a thing or two about digital gardens. [Here is her summary description of the elements that digital gardens are made up of](https://nesslabs.com/digital-garden-set-up)![](notes/images/extLink-blue.png).
- ![Earthrise taken from Apollo 8](notes/images/NASA-Apollo8-Dec24-Earthrise.jpg#right50)
+This is the ***home*** page - and *only* page so far - of *The Way Things Are*, what is meant to be a consistently-tended digital garden. Anne-Laure Le Cunff knows a thing or two about digital gardens. [Here is her summary description of the elements that digital gardens are made up of](https://nesslabs.com/digital-garden-set-up).
+
+![Earthrise taken from Apollo 8](notes/images/NASA-Apollo8-Dec24-Earthrise.jpg#right50)
 ### About the Site Title
 
  I hasten to point out I don't claim to know exactly the way things are in the sense of "the way things all fit together", or this how things are an no other way, period, end of discussion. Goodness no. 
