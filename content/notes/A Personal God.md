@@ -19,8 +19,6 @@ After listing exampled from the Bible that suggest God has personal attributes, 
 
 >The Bible designates God as the living God. He is a rational being, conscious of His existence. As the living God He possesses the attributes of a person. For, among other things, He can love, express anger, and show mercy. The Bible also says that God has a will and an intellect. All of these characteristics are consistent with personhood. Furthermore, the Bible contrasts the personal living God with impersonal idols that are mere things.
 
-==This is a note from me to you.==
-
 Islam, by contrast, doesn't consider God to be a person but there's no other way to express the concept other than using pronouns. And Allah has no gender. Allah is the thing that is everything, unbounded by space and time and humans can't comprehend what Allah is.[^2] 
 [^2]: "Personal God." _Wikipedia_, Wikimedia Foundation, 5 Jun. 2023, en.wikipedia.org/wiki/Personal_god. Accessed 16 Jun. 2023.
 
