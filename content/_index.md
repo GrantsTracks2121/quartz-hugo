@@ -18,7 +18,3 @@ This is the ***home*** page - and *only* page so far - of *The Way Things Are*, 
 The point here is it doesn't come "ready-made" for us to simply adopt; rather we need to ***construct*** it ourselves with the help of our family, our community, our culture and our species.
 
 And it is wonderful what we can make of it.
-
-
-
-
