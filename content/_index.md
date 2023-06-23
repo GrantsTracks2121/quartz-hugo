@@ -26,4 +26,4 @@ And it is wonderful what we can make of it.
 
 ![](notes/images/foamy-moo.png)
 
-[index](notes/Tea%20Ceremony%20at%20Sogo/index.md)
+[Tea Ceremony in a Department Store](notes/Tea%20Ceremony%20at%20Sogo/index.md)

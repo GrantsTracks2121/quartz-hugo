@@ -25,6 +25,8 @@ From the gallery author - sample shortcode call - see below for my version.
 
 From Grant's Tracks - so use this because I've tweaked it. But then again, there's not as much room on the Quartz page, so maybe this needs to be tweaked.
 
+NOTE the "loadJQuery=true" is essential, because it forces the JQuery stuff that is part of the image gallery to be loaded.
+
 Image Gallery
 {{< gallery match="images/*" sortOrder="asc" rowHeight="200" margins="25" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect=enlarge lastRow=justify >}}
 
