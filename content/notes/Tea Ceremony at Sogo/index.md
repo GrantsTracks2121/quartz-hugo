@@ -7,7 +7,7 @@ tags: [🌱Seedling, 🧹Needs_Editing]
 ---
 
 [During the time I worked in Japan](notes/Teaching%20English%20in%20Japan.md) I had the opportunity to attend a tea ceremony performed by one of my co-workers, Yumi Horiuchi. [^1] 
-[^1]:This was her name at the time; she's no doubt married now and has acquired a different family name. No matter, she'll always be "Yumi-chan" to me. Maybe that's not culturally appropriate; maybe it should be "Yumi-san", but I'm sticking with the "chan" term of endearment.
+[^1]:This was Yumi's family name at the time. she's no doubt married now and has acquired a different family name. No matter, she'll always be "Yumi-chan" to me. Maybe that's not culturally appropriate; maybe it should be "Yumi-san", but I'm sticking with the "chan" term of endearment.
 
 The ceremony took place in a space a department store in Matsuyama. I remember it being in the "Sogo" department store, but I could be wrong. Canadians could substitute "Eaton's" or the now defunct "Sears" for "department store" to get a sense of the setting: a large department store which is quite different from the rustic tea houses that one expects tea ceremonies to be held.
 
