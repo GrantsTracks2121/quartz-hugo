@@ -40,3 +40,8 @@ My version - didn't work; does it have to be external?
 [module]
 [[module.imports]]
   path = '/themes/hugo-shortcode-gallery'
+
+My second try:  - NO ERRORS and IT WORKED!!!!
+[module]
+[[module.imports]]
+  path = 'hugo-shortcode-gallery'

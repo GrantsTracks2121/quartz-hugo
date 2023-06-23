@@ -34,6 +34,6 @@ enableEmoji = true
 
 [module]
 [[module.imports]]
-  path = 'themes/hugo-shortcode-gallery'
+  path = 'hugo-shortcode-gallery'
   
 theme = ['hugo-shortcode-gallery']
