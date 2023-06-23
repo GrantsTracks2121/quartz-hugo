@@ -1,6 +1,6 @@
 ---
 enableTOC: false
-title: "Tea Ceremony at Sogo"
+title: "Tea Ceremony at a Department Store"
 datecreated: "2023-06-23"
 description: "Tea Ceremony at Sogo"
 tags: [🌱Seedling, 🧹Needs_Editing]
@@ -18,11 +18,9 @@ The ceremony took place in a space a department store in Matsuyama. I remember i
 
 ## Gallery
 
-<a href="#" onclick="window.location.reload(true);">View Gallery...</a>
+<a href="#Gallery" onclick="window.location.reload(true);">Click to view gallery...</a>
 
-***
-
-{{< gallery match="images/*" sortOrder="asc" rowHeight="200" margins="25" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="none" embedPreview=true loadJQuery=true thumbnailHoverEffect=enlarge lastRow=justify >}}
+{{< gallery match="images/*" sortOrder="asc" rowHeight="200" margins="25" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect=enlarge lastRow=justify >}}
 
 Date Created: {{< param datecreated >}}
 

@@ -115,7 +115,7 @@ img[src$='#left33']{
     max-width: 33%;
     position: relative;
 }
-//Atttempt add an icon for external links
+//Code an icon for external links - it only shows up in black - making it impossible to see dark mode.
 // From https://christianoliff.com/blog/styling-external-links-with-an-icon-in-css/
 // this applies in everything inside "article" - the container for all content on the page.
 // I added vertical-align: super; to make it appear above the line.
@@ -134,4 +134,27 @@ article a[href^="https://"]::after
   background-repeat: no-repeat;
   background-size: contain;
   display: inline-block;
+}
+// The button shortcode calls this class to style a button that will serve as a link
+
+a.markdown-btn {
+  font-size: inherit;
+  font-family: var(--font-body);
+  color: var(--font-color);
+  background-color: teal;
+  border-radius: 10px;
+  text-align: center;
+  padding: 5px 1em 5px 1em;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+
+  &:hover,
+  
+// this section doesn't have any effect 
+  &:active {
+    text-decoration: none;
+    background-color: #009999;
+    color: yellow;
+  }
 }

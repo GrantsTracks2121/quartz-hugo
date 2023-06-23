@@ -55,3 +55,23 @@ Trying a second time - this time just downloading the code and plunking it in a 
 
 
 /Users/grantswilson/Library/Mobile Documents/iCloud~md~obsidian/Documents/quartz-hugo/themes/hugo-shortcode-gallery/static/shortcode-gallery/jquery-3.7.0.min.js
+
+
+I can't get the gallery to load when the initial page loads - but it WILL load on a page refresh. So as a workaround I found that this works: a link with:
+
+<a href="#Gallery" onclick="window.location.reload(true);">Click to view gallery...</a>
+
+- this makes the page refresh and jump to the anchor Gallery as a heading - that's okay for now and I can all it a feature, not a bug because maybe those images are a distraction if they load immediately.
+
+Okay, how about adding a button with that bit of javascript instead?
+
+http://oostens.me/posts/hugo-button-shortcode/
+
+The button didn't work for adding the Gallery because it needs to invoke the onClick script and it just won't - and I don't know how to force it. BUT it looks good for adding external links and internal for that matter.
+
+~~~~~~~~~
+
+You can specify the sortOrder as either asc or desc. I've found you can number the file names and that will change the order, so it must be file names. Resort to this if you need to show th images in a certain order.
+
+I DID manage to display a caption in the "lightbox" view but only ONCE. Exif needs to be turned on, but if I put some picture through Photos, add captions and export again, the captions don't display in the lightbox. (!?!?!)
+
