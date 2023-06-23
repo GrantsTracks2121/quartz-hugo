@@ -146,8 +146,14 @@ sup {
 blockquote {
   margin-left: 0;
   border-left: 5px solid var(--secondary);
-  padding-left: 1em;
+  padding-left: 1.5em;
   transition: border-color 0.2s ease;
+
+}
+// GSW added to render text inside of blockquotes as italic and green-ish
+blockquote > p {
+  font-style: italic;
+  color: CadetBlue;
 }
 
 .footnotes p {
@@ -618,8 +624,12 @@ header {
     padding: 0 1em;
   }
 }
-
+// THIS is what italic and bold together is called
+// I added the border radius, and padding
 mark {
   background-color: var(--highlighted);
   color: var(--gray);
+  border-radius: 7px;
+  padding-right: 2px;
+  padding-left: 2px;
 }

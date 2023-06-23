@@ -22,6 +22,8 @@
   --visited: #4a575e !important;
   --tertiary: #84a59d !important;
   --primary: #f58382 !important;
+//original-> gray: #d4d4d4 !important; 
+// this is the color of text in dark mode
   --gray: #d4d4d4 !important;
   --lightgray: #292633 !important;
   --outlinegray: #343434 !important;
@@ -54,6 +56,24 @@
 }
 
 // Added to allow resize and justification of images.
+
+img[src$='right']{
+    float: right;
+    margin-top:  .4rem;
+    margin-left: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    position: relative;
+}
+
+img[src$='left']{
+    float: left;
+    margin-top:  .4rem;
+    margin-left: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    position: relative;
+}
 
 img[src$='#right50']{
     float: right;

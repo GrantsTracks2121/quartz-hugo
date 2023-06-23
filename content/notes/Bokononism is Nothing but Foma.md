@@ -23,6 +23,6 @@ It's in our nature, as Vonnegut's little poem elsewhere in Cat's Cradle chimes:
 >Man got to tell himself he understand."   
 >--Book of Bokonon
 
-Reading Kurt Vonnegut's *Cat's Cradle* has a certain "super-ball-bouncing-around-in-a-tiny-room" feel to it; in fact, this relatively short book has 127 chapters. Each chapter acts like an almost random fragment of experience that as a reader one must work to stitch together into some kind of logical thread in order to glean meaning from it.
+Reading Kurt Vonnegut's *Cat's Cradle* has a certain "super-ball-bouncing-around-in-a-tiny-room" feel to it; in fact, this relatively short book has 127 chapters. Each chapter acts like a random fragment of experience that as a reader one must work to stitch together into some kind of logical thread in order to glean meaning from it.
 
-Sound familiar? It seems to me this is how we experience our reality. We experience bits and pieces of reality, most of which is loaded with meanings our culture has imbued us witih, and we stitch together a narrative from it: *we got to tell ourselves we understand*.
+Sound familiar? It seems to me this is how we experience our reality. We experience bits and pieces of reality, most of which is loaded with culturally-imbued meanings, and we stitch together a narrative from them and that way *we get to tell ourselves we understand*.

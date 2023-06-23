@@ -1,0 +1,42 @@
+Setting up hugo-shortcode-gallery in Quartz
+This is the one I used for grantstracks and it worked well. The idea of page bundles isn't used in Quartz, and this one requires it, so this is a bit of an experiment.
+
+
+Following steps from his github site:
+https://github.com/mfg92/hugo-shortcode-gallery
+
+Create themes folder
+clone into the themes folder
+git clone https://github.com/mfg92/hugo-shortcode-gallery.git
+
+Next edit your projects config.toml and add this theme component to your themes:
+
+I don't have a theme, so this is it:
+theme = ['hugo-shortcode-gallery']
+
+From the gallery author - sample shortcode call - see below for my version.
+
+{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+
+/Users/grantswilson/Library/Mobile Documents/iCloud~md~obsidian/Documents/quartz-hugo/themes/hugo-shortcode-gallery/layouts/shortcodes/gallery.html
+
+
+From Grant's Tracks - so use this because I've tweaked it. But then again, there's not as much room on the Quartz page, so maybe this needs to be tweaked.
+
+Image Gallery
+{{< gallery match="images/*" sortOrder="asc" rowHeight="200" margins="25" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect=enlarge lastRow=justify >}}
+
+
+From here:
+https://gohugo.io/hugo-modules/use-modules/
+
+I see that you need to import that module into the site
+Example:
+[module]
+[[module.imports]]
+  path = 'github.com/spf13/hyde'
+
+My version - didn't work; does it have to be external?
+[module]
+[[module.imports]]
+  path = '/themes/hugo-shortcode-gallery'

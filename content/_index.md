@@ -4,12 +4,12 @@ datecreated: '2023-06-18'
 tags: [🌱Seedling, 🧹Needs_Editing]
 enableToc: false
 ---
-This is the ***home*** page - and *only* page so far - of *The Way Things Are*, what is meant to be a consistently-tended digital garden. What is a "digital garden," you might ask.
+This is the ***home*** page - and *only* page so far - of *The Way Things Are*, a site that I intend to be a consistently-tended digital garden. What is a "digital garden," you might ask.
 
 I'll let Anne-Laure Le Cunff provide a digital gardens. [a summary description of digital gardens](https://nesslabs.com/digital-garden-set-up).
 
 ### About the Site Title
- ![Earthrise taken from Apollo 8](notes/images/NASA-Apollo8-Dec24-Earthrise.jpg#right50)I hasten to point out I ==don't== claim to know exactly "the way things are" in the sense of "the way things all fit together". Goodness no. 
+ ![Earthrise taken from Apollo 8](notes/images/NASA-Apollo8-Dec24-Earthrise.jpg#right50)I hasten to point out I don't claim to know exactly "the way things are" in the sense of "the way things all fit together". Goodness no. 
 
 "The way things are" is meant to describe what I see as the starting point, the base reality of this extraordinary, seemingly improbable existence we have in this life-sustaining bubble in the vacuum of space we call earth.
 
@@ -20,3 +20,10 @@ I've come to conclude that purpose and meaning aren't objects to be ==found==; r
 The point here is it doesn't come "ready-made" for us to simply adopt; rather we need to ***construct*** it ourselves with the help of our family, our community, our culture and our species.
 
 And it is wonderful what we can make of it.
+
+>“At the back of our brain, there is a forgotten blaze or burst of astonishment at our own existence. The object of the artistic and spiritual life is to dig for this submerged sunrise of wonder.”
+
+
+![](notes/images/foamy-moo.png)
+
+[index](notes/Tea%20Ceremony%20at%20Sogo/index.md)
