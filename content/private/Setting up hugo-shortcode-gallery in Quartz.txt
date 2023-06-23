@@ -54,3 +54,4 @@ My second try:  - NO ERRORS and IT WORKED!!!!
 Trying a second time - this time just downloading the code and plunking it in a folder in /themes
 
 
+/Users/grantswilson/Library/Mobile Documents/iCloud~md~obsidian/Documents/quartz-hugo/themes/hugo-shortcode-gallery/static/shortcode-gallery/jquery-3.7.0.min.js

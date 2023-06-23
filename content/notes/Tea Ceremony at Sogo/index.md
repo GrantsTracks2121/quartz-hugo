@@ -17,9 +17,12 @@ The ceremony took place in a space a department store in Matsuyama. I remember i
 - I don't know about Aikido, but I have experience learning TaeKwondo and it's forms, in Japanese, *kata*. One focuses on the form, what is required in the moment according to the teaching. You are less yourself than you are human following the form during that time.
 
 ## Gallery
+
+<a href="#" onclick="window.location.reload(true);">View Gallery...</a>
+
 ***
 
-{{< gallery match="images/*" sortOrder="asc" rowHeight="200" margins="25" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect=enlarge lastRow=justify >}}
+{{< gallery match="images/*" sortOrder="asc" rowHeight="200" margins="25" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="none" embedPreview=true loadJQuery=true thumbnailHoverEffect=enlarge lastRow=justify >}}
 
 Date Created: {{< param datecreated >}}
 

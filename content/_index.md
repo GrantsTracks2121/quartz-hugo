@@ -4,6 +4,8 @@ datecreated: '2023-06-18'
 tags: [🌱Seedling, 🧹Needs_Editing]
 enableToc: false
 ---
+[Tea Ceremony in a Department Store](notes/Tea%20Ceremony%20at%20Sogo/index.md)
+
 This is the ***home*** page - and *only* page so far - of *The Way Things Are*, a site that I intend to be a consistently-tended digital garden. What is a "digital garden," you might ask.
 
 I'll let Anne-Laure Le Cunff provide a digital gardens. [a summary description of digital gardens](https://nesslabs.com/digital-garden-set-up).
@@ -26,4 +28,3 @@ And it is wonderful what we can make of it.
 
 ![](notes/images/foamy-moo.png)
 
-[Tea Ceremony in a Department Store](notes/Tea%20Ceremony%20at%20Sogo/index.md)
