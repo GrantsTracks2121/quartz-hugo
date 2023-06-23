@@ -1,6 +1,8 @@
 Setting up hugo-shortcode-gallery in Quartz
 This is the one I used for grantstracks and it worked well. The idea of page bundles isn't used in Quartz, and this one requires it, so this is a bit of an experiment.
 
+And the using the .git method it didn't work. I'm going try again just downloading the code and putting it in the right folder.
+
 
 Following steps from his github site:
 https://github.com/mfg92/hugo-shortcode-gallery
@@ -45,3 +47,8 @@ My second try:  - NO ERRORS and IT WORKED!!!!
 [module]
 [[module.imports]]
   path = 'hugo-shortcode-gallery'
+
+
+Trying a second time - this time just downloading the code and plunking it in a folder in /themes
+
+
