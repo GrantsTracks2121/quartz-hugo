@@ -1,10 +1,13 @@
 ---
+enableTOC: false
 title: "The Way Things Are"
 datecreated: '2023-06-18'
 tags: [🌱Seedling, 🧹Needs_Editing]
 enableToc: false
 ---
-[Tea Ceremony at a Department Store](notes/Tea%20Ceremony%20at%20a%20Department%20Store/index.md)
+[Tea Ceremony](notes/Tea%20Ceremony%20at%20a%20Department%20Store/index.md)
+
+[Ice fishing trip](notes/the-odd-ice-fishing-excursion/index.md)
 
 This is the ***home*** page - and *only* page so far - of *The Way Things Are*, a site that I intend to be a consistently-tended digital garden. What is a "digital garden," you might ask.
 
@@ -23,8 +26,6 @@ The point here is it doesn't come "ready-made" for us to simply adopt; rather we
 
 And it is wonderful what we can make of it.
 
->“At the back of our brain, there is a forgotten blaze or burst of astonishment at our own existence. The object of the artistic and spiritual life is to dig for this submerged sunrise of wonder.”
+>At the back of our brain, there is a forgotten blaze or burst of astonishment at our own existence. The object of the artistic and spiritual life is to dig for this submerged sunrise of wonder.
 
-
-![](notes/images/foamy-moo.png)
 

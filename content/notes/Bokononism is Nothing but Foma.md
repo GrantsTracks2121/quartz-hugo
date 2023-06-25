@@ -26,3 +26,12 @@ It's in our nature, as Vonnegut's little poem elsewhere in Cat's Cradle chimes:
 Reading Kurt Vonnegut's *Cat's Cradle* has a certain "super-ball-bouncing-around-in-a-tiny-room" feel to it; in fact, this relatively short book has 127 chapters. Each chapter acts like a random fragment of experience that as a reader one must work to stitch together into some kind of logical thread in order to glean meaning from it.
 
 Sound familiar? It seems to me this is how we experience our reality. We experience bits and pieces of reality, most of which is loaded with culturally-imbued meanings, and we stitch together a narrative from them and that way *we get to tell ourselves we understand*.
+
+Want to read more about Bokononism? First you might want to heed the warning on the title page of the Book of Bokonon:
+
+>Don't be a fool! Close this book at once! It is nothing but foma!
+
+Still undeterred? Still have that misguided belief that there's truth to be found until the next rock you turn over, or the next book you read? Okay  {{< button href="https://www.cs.uni.edu/~wallingf/personal/bokonon.html" >}}read the The Books of Bokonon here.{{< /button >}}
+
+
+

@@ -151,10 +151,13 @@ blockquote {
 
 }
 // GSW added to render text inside of blockquotes as italic and green-ish
+// Tried by decided against quote symbol before from https://css-tricks.com/snippets/css/simple-and-nice-blockquote-styling/
 blockquote > p {
-  font-style: italic;
-  color: CadetBlue;
+//  font-style: italic;
+  font-weight: bold;
+  color: var(--blockquote);
 }
+
 
 .footnotes p {
   margin: 0.5em 0;

@@ -75,3 +75,12 @@ You can specify the sortOrder as either asc or desc. I've found you can number t
 
 I DID manage to display a caption in the "lightbox" view but only ONCE. Exif needs to be turned on, but if I put some picture through Photos, add captions and export again, the captions don't display in the lightbox. (!?!?!)
 
+
+embedPreview=true 
+
+https://www.geocaching.com/account/dashboard
+
+#[imaging.exif]
+#    includeFields = ".*"
+
+

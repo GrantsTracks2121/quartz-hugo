@@ -32,9 +32,9 @@ enableEmoji = true
         publishDate = ["publishDate", "date"]
     [markup.goldmark.renderer]
         unsafe = true
-
+# This section contains parameters necessary for the hugo-shortcode-gallery
 [module]
 [[module.imports]]
   path = 'hugo-shortcode-gallery'
   
-# theme = ['hugo-shortcode-gallery']
+theme = ['hugo-shortcode-gallery']
