@@ -21,7 +21,5 @@ The ceremony took place in a space a department store in Matsuyama. I remember i
 
 {{< gallery match="images/*" sortOrder="asc" rowHeight="200" margins="25" thumbnailResizeOptions="600x600 q90 Lanczos"  previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect=enlarge lastRow=justify >}}
 
-Date Created: {{< param datecreated >}}
 
-![](notes/images/foamy-moo.png)
 

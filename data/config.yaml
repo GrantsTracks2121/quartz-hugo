@@ -17,8 +17,13 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  The Way Things Are is meant to describe what I see as the starting point, 
+  the base reality of this extraordinary, seemingly improbable existence we 
+  have in this life-sustaining bubble in the vacuum of space we call earth. 
+  When you remove the human-centric fabrications from your conception of 
+  reality you are left with what can seem a terrifying nothingness. 
+  That nothingness is all there is and it is mind-numbingly, exquisitely 
+  beautify and awesome.
 page_title:
   "The Way Things Are"
 links:
@@ -26,3 +31,8 @@ links:
     link: https://grantstracks.com
 #  - link_name: GitHub
 #    link: https://github.com/jackyzha0
+favicon:
+  - { rel: "shortcut icon", href: "img/favicon.ico", type: "image/ico" }
+  - { rel: "apple-touch-icon", href: "img/apple-touch-icon.png", type: "image/png" }
+  - { rel: "android-chrome-icon", href: "img/android-chrome-192x192.png", type: "image/png" }
+  - { rel: "android-chrome-icon", href: "img/android-chrome-512x512.png", type: "image/png" }

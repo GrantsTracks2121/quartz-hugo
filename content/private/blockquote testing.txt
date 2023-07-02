@@ -1,0 +1,30 @@
+blockquote {
+    position: relative;
+    /* background: #ddd; */
+}
+
+blockquote:before {
+  color: #ccc;
+  position: absolute;
+  content: open-quote;
+  font-size: 4em;
+  margin-left: -0.6em;
+  margin-top: -0.4em;
+  quotes: "“" "”" "“" "”";
+}
+//I'm not a fan of the closing quotation marks 
+ blockquote:after {
+   color: #ccc;
+   position: absolute;
+   font-size: 4em;
+   bottom: 0;
+   margin-right: -0.4em;
+   margin-bottom: -0.8em;
+  quotes: "“" "”" "“" "”";   
+ }
+ 
+blockquote p {
+  display: inline;
+  font-weight: bold;  
+  color: var(--blockquote);
+}

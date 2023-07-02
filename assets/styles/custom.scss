@@ -13,7 +13,7 @@
   --million-progress-bar-color: var(--secondary);
   //original highlighted: #f5dfaf88
   --highlighted: gold; 
-  --blockquote: black;
+  --blockquote: seagreen; // original black - tried #8b7929 - seagreen pretty good
 }
 
 [saved-theme="dark"] {
@@ -30,7 +30,7 @@
   --outlinegray: #343434 !important;
 //original highlighted: #574010
   --highlighted: teal; 
-  --blockquote: teal;
+  --blockquote: #cbb44f !important; // original - teal
 }
 
 // style for bold and italic combined

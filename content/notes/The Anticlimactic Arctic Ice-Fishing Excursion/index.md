@@ -1,16 +1,13 @@
 ---
 enableTOC: false
-title: "The Anti-Climactic Ice-Fishing Excursion"
+title: "The Anticlimactic Arctic Ice-Fishing Excursion"
 datecreated: "2020-08-13"
 description: "These are my memories about an ill-fated group ice-fishing trip by plane from Cambridge Bay to somewhere on the artic tundra. Everyone came out completely safe and unharmed, but let's just say that no fishing of any kind happened."
 tags: [🌿Budding]
 ---
-## Gallery
-<a href="#Gallery" onclick="window.location.reload(true);">Click to view gallery...</a>
-
-{{< gallery match="images/*" sortOrder="asc" rowHeight="200" margins="25" thumbnailResizeOptions="600x600 q90 Lanczos"  previewType="blur" embedPreview=true loadJQuery=true thumbnailHoverEffect=enlarge lastRow=justify >}}
-
-This post is another in my series about Cambridge Bay, but unlike most of the other posts which were originally pages on the _Grant Wilson's Slice of Life_ website I maintained back then, this post is written from *pure*, and perhaps *faulty*, memory in 2020. That's some 22 years after the actual incident so there is a distinct lack of detail and large helping of "Maybe it was like this or that, don't quite remember". Despite all that, I did want to tell the story because the whole experience was, just as the title says, anticlimactic.
+> [!INFO] A note about this story...
+>
+> This post is written from *pure*, and perhaps *faulty*, memory in 2020 of an excursion that took place some 22 years before that in 1998. So there is a distinct lack of detail and a large helping of "Maybe it was like this or that... don't quite remember, really." Despite all that, I did want to tell the story because the whole experience was, just as the title says, anticlimactic.
 
 Late during my stay in Cambridge Bay, I was part of what turned out to be a memorably odd chartered ice-fishing trip. My memory is very hazy about most of the particulars of the trip, including exactly when it took place, but I do know it was sometime during the spring of 1998. 
 
@@ -28,11 +25,11 @@ In any case, we took off and _someone_ must have had an idea where to go because
 
 We made a number of passes at the landing spot, I’m thinking three or more. Having seen TV shows about bush piloting since then, I know now that it’s quite normal to scout out the landing spot first and even attempt and abort landings in arctic conditions. But at that time, having only flown on commercial flights in the south where there are paved runways, the multiple attempts thing wasn’t part of my experience. I distinctly remember my stress level increasing at each attempt. But what can you do? You’re a captive sardine who is still euphoric from having the opportunity to escape the confines of town for a few hours.
 
-![](notes/the-odd-ice-fishing-excursion/images/featured-oddicefishing-plane-on-lake-2-cropped.jpeg)
+![](notes/The%20Anticlimactic%20Arctic%20Ice-Fishing%20Excursion/images/featured-oddicefishing-plane-on-lake-2-cropped.jpeg)
 
 But we landed safely and piled out of the plane. I remember the gender roles kicking in without anyone saying anything: a tent was set up quickly and the women-folk started on making food, including the heating up the chilli that someone had made.
 
-![The ice auger](notes/the-odd-ice-fishing-excursion/images/oddicefishing-auger.jpg "The ice auger")
+![The ice auger](notes/The%20Anticlimactic%20Arctic%20Ice-Fishing%20Excursion/images/oddicefishing-auger.jpg "The ice auger")
 
 The men-folk, a couple of them schlepping an ice auger, made their way out a bit onto a spot on the ice to drill holes to begin ice-fishing. I was part of that group.
 
@@ -54,15 +51,15 @@ We
 
  We no doubt all agreed that we didn’t want fish anyway and besides ice-fishing is stupid and boring.
 
-![The tent](notes/the-odd-ice-fishing-excursion/images/oddicefishing-tent-1-1024x687.jpg "The tent")*The tent that ended up serving a great place to eat chilli.*
+![The tent](notes/The%20Anticlimactic%20Arctic%20Ice-Fishing%20Excursion/images/oddicefishing-tent-1-1024x687.jpg "The tent")*The tent that ended up serving a great place to eat chilli.*
 
 That’s my very vague recollection of the group ice-fishing trip. It’s more than a little anti-climatic I know, but that’s the way reality goes sometimes. Not with a bang, but a whimper.
 
 TIm S. and I did take some time to walk a ways to do some hero shots of each other with the plane in the background. Here they are even though the quality of them is sub, sub par.
 
-![Tim S.](notes/the-odd-ice-fishing-excursion/images/oddicefishing-tim.jpg "Tim S. Hero Shot")*Tim S. - a hero shot with the plane in the background.*
+![Tim S.](notes/The%20Anticlimactic%20Arctic%20Ice-Fishing%20Excursion/images/oddicefishing-tim.jpg "Tim S. Hero Shot")*Tim S. - a hero shot with the plane in the background.*
 
-![Grant](notes/the-odd-ice-fishing-excursion/images/oddicefishing-Grant.jpg "Grant Hero Shot")
+![Grant](notes/The%20Anticlimactic%20Arctic%20Ice-Fishing%20Excursion/images/oddicefishing-Grant.jpg "Grant Hero Shot")
 *Me with the regular winter jacket that I'd wear in the "south" - it must be spring.*
 
 ### Epilogue
