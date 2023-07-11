@@ -1,0 +1,11 @@
+Ivory
+#FFFFF0
+
+OldLace
+#FDF5E6
+
+PapayaWhip
+#FFEFD5
+
+Wheat
+#F5DEB3

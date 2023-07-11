@@ -1,7 +1,9 @@
 // Add your own CSS here!
-
+// this page has options for text colour on white background
+// https://www.uxmatters.com/mt/archives/2007/01/applying-color-theory-to-digital-displays.php
+// for alternate background colors for white see "possible background colors for light theme.txt" in private folder
 :root {
-  --light: #faf8f8;
+  --light: #FFEFD5; // this is what's used for the page bkground color - original #faf8f8 - whitesmoke #f5f5f5 - I like #faf8e9
   --dark: #141021;
   --secondary: #284b63;
   --tertiary: #84a59d;
@@ -13,7 +15,7 @@
   --million-progress-bar-color: var(--secondary);
   //original highlighted: #f5dfaf88
   --highlighted: gold; 
-  --blockquote: seagreen; // original black - tried #8b7929 - seagreen pretty good
+  --blockquote: #003300; // #003300 is called Kashmir original black - tried #8b7929 - seagreen pretty good
 }
 
 [saved-theme="dark"] {
@@ -30,7 +32,7 @@
   --outlinegray: #343434 !important;
 //original highlighted: #574010
   --highlighted: teal; 
-  --blockquote: #cbb44f !important; // original - teal
+  --blockquote: #FFFF00 !important; // original - teal - liked #cbb44f - #FFFF00 is "yellow"
 }
 
 // style for bold and italic combined
