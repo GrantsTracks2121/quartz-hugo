@@ -7,7 +7,7 @@ enableToc: false
 ---
 
 >Tiger got to hunt, bird got to fly;  
->Man got to. sit and wonder 'why, why, why?'  
+>Man got to sit and wonder 'why, why, why?'  
 >Tiger got to sleep, bird got to land;  
 >Man got to tell himself he understand. 
 >\
@@ -44,5 +44,4 @@ I've come to conclude that purpose and meaning aren't objects to be ==found==; r
 And it is wonderful what we can make of it.
 
 >At the back of our brain, there is a forgotten blaze or burst of astonishment at our own existence. The object of the artistic and spiritual life is to dig for this submerged sunrise of wonder.
-
 

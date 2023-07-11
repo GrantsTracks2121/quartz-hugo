@@ -3,13 +3,13 @@
 // https://www.uxmatters.com/mt/archives/2007/01/applying-color-theory-to-digital-displays.php
 // for alternate background colors for white see "possible background colors for light theme.txt" in private folder
 :root {
-  --light: #FFEFD5; // this is what's used for the page bkground color - original #faf8f8 - whitesmoke #f5f5f5 - I like #faf8e9
+  --light: #FFFFF0; // this is what's used for the page bkground color - original #faf8f8 - whitesmoke #f5f5f5 - I like #faf8e9
   --dark: #141021;
   --secondary: #284b63;
   --tertiary: #84a59d;
   --visited: #afbfc9;
-  --primary: #f28482;
-  --gray: #4e4e4e;
+  --primary: #f28482; // original #f28482
+  --gray: #000; // original #4e4e4e
   --lightgray: #f0f0f0;
   --outlinegray: #dadada;
   --million-progress-bar-color: var(--secondary);
@@ -56,7 +56,6 @@
 	margin-top: -2px;
 	margin-left: 3px;
 	font-family: var(--font-body);
-//	font-style: oblique;
 }
 
 // Added to allow resize and justification of images.
