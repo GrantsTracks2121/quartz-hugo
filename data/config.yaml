@@ -36,3 +36,8 @@ favicon:
   - { rel: "apple-touch-icon", href: "img/apple-touch-icon.png", type: "image/png" }
   - { rel: "android-chrome-icon", href: "img/android-chrome-192x192.png", type: "image/png" }
   - { rel: "android-chrome-icon", href: "img/android-chrome-512x512.png", type: "image/png" }
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allow HTML in md files

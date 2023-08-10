@@ -1,9 +1,9 @@
 // Replace this with your own font imports!
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600&display=swap');
 :root {
-  --font-body: "Source Sans Pro";
-  --font-header: "Inter";
-  --font-mono: "Fira Code"
+  --font-body: "Source Sans Pro", sans-serif;
+  --font-header: "Inter", sans-serif;
+  --font-mono: "Fira Code", monospace;
 }
 
 // typography
@@ -38,13 +38,13 @@ body {
   box-sizing: border-box;
   background-color: var(--light);
 }
-// original   margin: 2rem 0 0;  padding: 2rem auto 1rem;
+
 h1, h2, h3, h4, h5, h6, thead {
   font-family: var(--font-header);
   color: var(--dark);
   font-weight: revert;
-  margin: 1rem 0 0;
-  padding: 1rem auto 1rem;
+  margin: 2rem 0 0;
+  padding: 2rem auto 1rem;
 
   &:hover > .hanchor {
     color: var(--secondary);

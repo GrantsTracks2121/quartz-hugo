@@ -16,14 +16,8 @@ enableToc: false
 <div style="width:50%; float:right; transform: translateY(-1.5em);" markdown="1">
 
 ![Where does this show up?](notes/images/Img_6961_2021-May-31.jpg "Apple blossoms still beautiful.")<span style="transform: translateY(-1.2em);display: inline-block;">*This is the caption under the picture. // Photo: Grant Wilson*</span>
-
 </div>
-
-
 <div style="width:50%; float:right">
-
-
-
 </div>
 
 This is the ***home*** page - and *only* page so far - of *The Way Things Are*, a site that I intend to be a consistently-tended digital garden. What is a "digital garden," you might ask.
@@ -44,4 +38,5 @@ I've come to conclude that purpose and meaning aren't objects to be ==found==; r
 And it is wonderful what we can make of it.
 
 >At the back of our brain, there is a forgotten blaze or burst of astonishment at our own existence. The object of the artistic and spiritual life is to dig for this submerged sunrise of wonder.
+
 
