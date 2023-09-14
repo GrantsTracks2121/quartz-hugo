@@ -1,8 +1,10 @@
 ---
 enableTOC: false
-title: "The Way Things Are"
-datecreated: '2023-06-18'
-tags: [🌱Seedling, 🧹Needs_Editing]
+title: It Rolls Through All Things
+datecreated: 2023-06-18
+tags:
+  - 🌱Seedling
+  - 🧹Needs_Editing
 enableToc: false
 ---
 
