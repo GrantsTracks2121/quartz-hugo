@@ -3,7 +3,7 @@ title: "Wampeter"
 datecreated: '2023-06-15'
 tags: [🌿Budding, 🧹Needs_Editing]
 ---
-From Kurt Vonnegut's *Cat's Cradle*, a *Wampeter* is something that is currently serving as the vector or focus for your existence. 
+From Kurt Vonnegut's *Cat's Cradle*, a *Wampeter* **is something that is currently serving as the vector or focus for your existence.**
 
 This is a term created by Vonnegut so the interpretation of it certainly has some wiggle room.
 
