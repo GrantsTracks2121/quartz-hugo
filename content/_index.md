@@ -1,6 +1,6 @@
 ---
 enableTOC: false
-title: It Rolls Through All Things
+title: The Way Things Are
 datecreated: 2023-06-18
 tags:
   - 🌱Seedling
