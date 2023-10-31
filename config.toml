@@ -1,5 +1,5 @@
 # use a hash mark for comments
-baseURL = "https://thewaythingsare.life"
+baseURL = "https://thewaythingsare.quest"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
