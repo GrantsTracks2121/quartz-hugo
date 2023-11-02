@@ -5,8 +5,11 @@ datecreated: 2023-06-18
 tags:
   - 🌱Seedling
   - 🧹Needs_Editing
-enableToc: false
 ---
+
+> [!Note] This site is presently under construction and in a testing phase as I learn how best to add content to it. The content you see here is random, unconnected and temporary.
+>
+> 
 
 >Tiger got to hunt, bird got to fly;  
 >Man got to sit and wonder 'why, why, why?'  
