@@ -1,8 +1,11 @@
 ---
-title: "Cat's Cradle by Kurt Vonnegut"
-datecreated: "2023-06-16"
-description: "Cat's Cradle by Kurt Vonnegut"
-tags: [🌱Seedling, 🧹Needs_Editing]
+enableTOC: true
+title: Cat's Cradle by Kurt Vonnegut
+datecreated: 2023-06-16
+description: Cat's Cradle by Kurt Vonnegut
+tags:
+  - 🌱Seedling
+  - 🧹Needs_Editing
 ---
 
 ⟰  [[Resources]]

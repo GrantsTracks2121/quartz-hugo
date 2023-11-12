@@ -19,7 +19,7 @@ tags:
 >\
 >-- *Book of Bokonon*
 
-[[Bokononism is Nothing but Foma]]
+[Bokononism is Nothing but Foma](notes/Bokononism%20is%20Nothing%20but%20Foma.md)
 
 <div style="width:50%; float:right; transform: translateY(-1.5em);" markdown="1">
 
