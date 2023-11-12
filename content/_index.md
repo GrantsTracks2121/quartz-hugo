@@ -19,6 +19,8 @@ tags:
 >\
 >-- *Book of Bokonon*
 
+[[Bokononism is Nothing but Foma]]
+
 <div style="width:50%; float:right; transform: translateY(-1.5em);" markdown="1">
 
 ![Where does this show up?](notes/images/Img_6961_2021-May-31.jpg "Apple blossoms still beautiful.")<span style="transform: translateY(-1.2em);display: inline-block;">*This is the caption under the picture. // Photo: Grant Wilson*</span>
