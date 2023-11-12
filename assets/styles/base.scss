@@ -199,11 +199,12 @@ article {
   }
 
   & a {
-    font-weight: 600;
+    font-weight: 800;
 
     &.internal-link {
       text-decoration: none;
-      background-color: transparentize(#8f9fa9, 0.85);
+     // original -   background-color: transparentize(#8f9fa9, 0.85);
+      background-color: transparentize(#0000FF, 0.95);
       padding: 0 0.1em;
       margin: auto -0.1em;
       border-radius: 3px;
